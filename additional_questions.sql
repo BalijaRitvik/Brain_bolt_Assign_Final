@@ -1,0 +1,117 @@
+-- Additional Questions to expand the quiz pool
+-- Run this after the initial seed to add more variety
+
+-- Difficulty 1 Questions (Easy - 20 more)
+INSERT INTO questions (id, difficulty, prompt, choices, correct) VALUES
+('q21', 1, 'What is 5 + 3?', '["6", "7", "8", "9"]', '8'),
+('q22', 1, 'What color is the sky on a clear day?', '["Green", "Blue", "Red", "Yellow"]', 'Blue'),
+('q23', 1, 'How many days are in a week?', '["5", "6", "7", "8"]', '7'),
+('q24', 1, 'What is the opposite of hot?', '["Warm", "Cold", "Cool", "Freezing"]', 'Cold'),
+('q25', 1, 'How many legs does a cat have?', '["2", "3", "4", "6"]', '4'),
+('q26', 1, 'What is 10 - 2?', '["6", "7", "8", "9"]', '8'),
+('q27', 1, 'Which animal says "moo"?', '["Dog", "Cat", "Cow", "Sheep"]', 'Cow'),
+('q28', 1, 'What comes after Monday?', '["Sunday", "Tuesday", "Wednesday", "Friday"]', 'Tuesday'),
+('q29', 1, 'How many fingers on one hand?', '["4", "5", "6", "10"]', '5'),
+('q30', 1, 'What shape is a ball?', '["Square", "Triangle", "Circle", "Rectangle"]', 'Circle'),
+('q31', 1, 'What is 2 x 2?', '["2", "3", "4", "5"]', '4'),
+('q32', 1, 'Which season comes after winter?', '["Summer", "Fall", "Spring", "Winter"]', 'Spring'),
+('q33', 1, 'How many months in a year?', '["10", "11", "12", "13"]', '12'),
+('q34', 1, 'What is the first letter of the alphabet?', '["A", "B", "C", "D"]', 'A'),
+('q35', 1, 'How many wheels does a bicycle have?', '["1", "2", "3", "4"]', '2'),
+('q36', 1, 'What color is grass?', '["Blue", "Green", "Yellow", "Red"]', 'Green'),
+('q37', 1, 'What is 6 - 3?', '["2", "3", "4", "5"]', '3'),
+('q38', 1, 'Which fruit is yellow?', '["Apple", "Banana", "Orange", "Grape"]', 'Banana'),
+('q39', 1, 'How many eyes do you have?', '["1", "2", "3", "4"]', '2'),
+('q40', 1, 'What is 3 + 4?', '["5", "6", "7", "8"]', '7');
+
+-- Difficulty 2 Questions (Elementary - 20 more)
+INSERT INTO questions (id, difficulty, prompt, choices, correct) VALUES
+('q41', 2, 'What is 15 + 27?', '["40", "41", "42", "43"]', '42'),
+('q42', 2, 'Which planet is known as the Red Planet?', '["Venus", "Mars", "Jupiter", "Saturn"]', 'Mars'),
+('q43', 2, 'What is 8 x 7?', '["54", "55", "56", "57"]', '56'),
+('q44', 2, 'Who wrote "Romeo and Juliet"?', '["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"]', 'William Shakespeare'),
+('q45', 2, 'What is the square root of 64?', '["6", "7", "8", "9"]', '8'),
+('q46', 2, 'Which ocean is the largest?', '["Atlantic", "Indian", "Arctic", "Pacific"]', 'Pacific'),
+('q47', 2, 'What is 100 - 37?', '["61", "62", "63", "64"]', '63'),
+('q48', 2, 'In which year did World War II end?', '["1943", "1944", "1945", "1946"]', '1945'),
+('q49', 2, 'What is 12 x 12?', '["144", "124", "134", "154"]', '144'),
+('q50', 2, 'What is the chemical symbol for gold?', '["Go", "Gd", "Au", "Ag"]', 'Au'),
+('q51', 2, 'How many continents are there?', '["5", "6", "7", "8"]', '7'),
+('q52', 2, 'What is 25% of 200?', '["25", "50", "75", "100"]', '50'),
+('q53', 2, 'Who painted the Mona Lisa?', '["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"]', 'Leonardo da Vinci'),
+('q54', 2, 'What is the largest mammal?', '["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"]', 'Blue Whale'),
+('q55', 2, 'What is 144 ÷ 12?', '["10", "11", "12", "13"]', '12'),
+('q56', 2, 'What is the capital of Japan?', '["Seoul", "Beijing", "Tokyo", "Bangkok"]', 'Tokyo'),
+('q57', 2, 'How many sides does a hexagon have?', '["5", "6", "7", "8"]', '6'),
+('q58', 2, 'What is the freezing point of water in Celsius?', '["-1", "0", "1", "32"]', '0'),
+('q59', 2, 'Which element has the symbol O?', '["Gold", "Oxygen", "Silver", "Iron"]', 'Oxygen'),
+('q60', 2, 'What is 9 x 9?', '["72", "81", "90", "99"]', '81');
+
+-- Difficulty 3 Questions (Intermediate - 20 more)
+INSERT INTO questions (id, difficulty, prompt, choices, correct) VALUES
+('q61', 3, 'What is the derivative of x²?', '["x", "2x", "x²", "2x²"]', '2x'),
+('q62', 3, 'In which year was JavaScript created?', '["1993", "1995", "1997", "1999"]', '1995'),
+('q63', 3, 'What is the value of π (pi) to 2 decimal places?', '["3.12", "3.14", "3.16", "3.18"]', '3.14'),
+('q64', 3, 'Who developed the theory of relativity?', '["Isaac Newton", "Nikola Tesla", "Albert Einstein", "Stephen Hawking"]', 'Albert Einstein'),
+('q65', 3, 'What is the chemical formula for table salt?', '["NaCl", "KCl", "CaCl", "MgCl"]', 'NaCl'),
+('q66', 3, 'In programming, what does API stand for?', '["Application Programming Interface", "Advanced Programming Integration", "Automated Process Interface", "Application Process Integration"]', 'Application Programming Interface'),
+('q67', 3, 'What is the largest prime number less than 100?', '["89", "91", "93", "97"]', '97'),
+('q68', 3, 'What is the speed of light?', '["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"]', '300,000 km/s'),
+('q69', 3, 'Which HTTP status code indicates "Not Found"?', '["400", "404", "500", "503"]', '404'),
+('q70', 3, 'What is the Pythagorean theorem?', '["a² + b² = c²", "a + b = c", "a² - b² = c²", "a × b = c"]', 'a² + b² = c²'),
+('q71', 3, 'In SQL, what does SELECT DISTINCT do?', '["Selects all records", "Removes duplicates", "Sorts records", "Counts records"]', 'Removes duplicates'),
+('q72', 3, 'What is the atomic number of carbon?', '["4", "6", "8", "12"]', '6'),
+('q73', 3, 'What does CPU stand for?', '["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Computer Processing Utility"]', 'Central Processing Unit'),
+('q74', 3, 'What is 2^10?', '["512", "1024", "2048", "4096"]', '1024'),
+('q75', 3, 'In chess, which piece can only move diagonally?', '["Rook", "Knight", "Bishop", "Queen"]', 'Bishop'),
+('q76', 3, 'What is the capital of Australia?', '["Sydney", "Melbourne", "Canberra", "Brisbane"]', 'Canberra'),
+('q77', 3, 'What is Big O notation used for?', '["Memory allocation", "Algorithm complexity", "Data encryption", "Network speed"]', 'Algorithm complexity'),
+('q78', 3, 'What is the boiling point of water at sea level?', '["90°C", "100°C", "110°C", "120°C"]', '100°C'),
+('q79', 3, 'In Git, what command creates a new branch?', '["git create", "git branch", "git new", "git fork"]', 'git branch'),
+('q80', 3, 'What is the square root of 256?', '["14", "15", "16", "17"]', '16');
+
+-- Difficulty 4 Questions (Advanced - 20 more)
+INSERT INTO questions (id, difficulty, prompt, choices, correct) VALUES
+('q81', 4, 'What is the time complexity of quicksort average case?', '["O(n)", "O(n log n)", "O(n²)", "O(log n)"]', 'O(n log n)'),
+('q82', 4, 'What is the 10th Fibonacci number?', '["34", "55", "89", "144"]', '55'),
+('q83', 4, 'In React, what hook is used for side effects?', '["useState", "useEffect", "useContext", "useMemo"]', 'useEffect'),
+('q84', 4, 'What is the Heisenberg Uncertainty Principle?', '["Position and momentum cannot both be precisely measured", "Energy is quantized", "Light behaves as waves", "Matter cannot be created"]', 'Position and momentum cannot both be precisely measured'),
+('q85', 4, 'What is a closure in JavaScript?', '["A function with no parameters", "A function that returns another function", "A function that has access to outer scope", "A recursive function"]', 'A function that has access to outer scope'),
+('q86', 4, 'What is the integral of 1/x?', '["x", "ln|x|", "1/x²", "e^x"]', 'ln|x|'),
+('q87', 4, 'What is the CAP theorem in distributed systems?', '["Consistency, Availability, Partition tolerance", "Cache, API, Performance", "Code, Algorithm, Protocol", "Control, Access, Permission"]', 'Consistency, Availability, Partition tolerance'),
+('q88', 4, 'What is the half-life of Carbon-14?', '["5,730 years", "10,000 years", "50,000 years", "100,000 years"]', '5,730 years'),
+('q89', 4, 'In database normalization, what is 3NF?', '["Third Normal Form", "Triple Node Function", "Three Network Frames", "Ternary Null Format"]', 'Third Normal Form'),
+('q90', 4, 'What is the difference between TCP and UDP?', '["TCP is reliable, UDP is not", "UDP is reliable, TCP is not", "Both are reliable", "Neither is reliable"]', 'TCP is reliable, UDP is not'),
+('q91', 4, 'What is Docker used for?', '["Version control", "Containerization", "Database management", "Web hosting"]', 'Containerization'),
+('q92', 4, 'What is the first law of thermodynamics?', '["Energy cannot be created or destroyed", "Entropy increases", "Heat flows from hot to cold", "Pressure times volume is constant"]', 'Energy cannot be created or destroyed'),
+('q93', 4, 'In machine learning, what is overfitting?', '["Model too simple", "Model too complex for training data", "Model trains too fast", "Model has no bias"]', 'Model too complex for training data'),
+('q94', 4, 'What is a hash collision?', '["Two keys produce same hash", "Hash function fails", "Hash table becomes full", "Hash value is negative"]', 'Two keys produce same hash'),
+('q95', 4, 'What is the Byzantine Generals Problem?', '["Consensus in distributed systems", "Military strategy", "Graph traversal", "Sorting algorithm"]', 'Consensus in distributed systems'),
+('q96', 4, 'What is the difference between == and === in JavaScript?', '["No difference", "=== checks type too", "== checks type too", "=== is deprecated"]', '=== checks type too'),
+('q97', 4, 'What is SOLID in software design?', '["Design principles", "Programming language", "Database type", "Testing framework"]', 'Design principles'),
+('q98', 4, 'What is the purpose of a mutex?', '["Memory management", "Mutual exclusion", "Network routing", "Data compression"]', 'Mutual exclusion'),
+('q99', 4, 'What is tail recursion?', '["Recursion at function start", "Last operation is recursive call", "No base case", "Multiple recursive calls"]', 'Last operation is recursive call'),
+('q100', 4, 'What is event loop in Node.js?', '["Handles asynchronous operations", "Error handler", "File system", "Database connector"]', 'Handles asynchronous operations');
+
+-- Difficulty 5 Questions (Expert - 20 more)
+INSERT INTO questions (id, difficulty, prompt, choices, correct) VALUES
+('q101', 5, 'What is the Halting Problem?', '["Undecidable problem about program termination", "NP-complete problem", "Sorting problem", "Graph problem"]', 'Undecidable problem about program termination'),
+('q102', 5, 'What is Gödel''s Incompleteness Theorem?', '["Some truths cannot be proven", "All statements are provable", "Math is consistent", "Logic is complete"]', 'Some truths cannot be proven'),
+('q103', 5, 'What is the Y Combinator in lambda calculus?', '["Fixed-point combinator", "Variable combinator", "Startup accelerator", "Function composer"]', 'Fixed-point combinator'),
+('q104', 5, 'What is P vs NP problem?', '["Unsolved CS problem about complexity", "Solved problem", "Physics problem", "Math equation"]', 'Unsolved CS problem about complexity'),
+('q105', 5, 'What is a monad in functional programming?', '["Design pattern for composing functions", "Data structure", "Type system", "Compiler optimization"]', 'Design pattern for composing functions'),
+('q106', 5, 'What is the Riemann Hypothesis?', '["Conjecture about prime distribution", "Proven theorem", "Geometry problem", "Physics law"]', 'Conjecture about prime distribution'),
+('q107', 5, 'What is quantum entanglement?', '["Particles remain connected regardless of distance", "Particle collision", "Wave interference", "Energy transfer"]', 'Particles remain connected regardless of distance'),
+('q108', 5, 'What is the difference between P and NP complexity classes?', '["P is polynomial time, NP is nondeterministic polynomial", "NP is faster", "No difference", "P is harder"]', 'P is polynomial time, NP is nondeterministic polynomial'),
+('q109', 5, 'What is the Church-Turing thesis?', '["Any computable function can be computed by Turing machine", "All programs halt", "Recursion is optimal", "Functions are continuous"]', 'Any computable function can be computed by Turing machine'),
+('q110', 5, 'What is a continuation in programming?', '["Abstract representation of program control state", "Loop structure", "Error handler", "Memory pointer"]', 'Abstract representation of program control state'),
+('q111', 5, 'What is the Strong AI hypothesis?', '["Machines can truly think", "AI will surpass humans", "Weak AI is sufficient", "AI is impossible"]', 'Machines can truly think'),
+('q112', 5, 'What is the Curry-Howard correspondence?', '["Proofs correspond to programs", "Types correspond to functions", "Logic equals math", "Curry equals Howard"]', 'Proofs correspond to programs'),
+('q113', 5, 'What is Kolmogorov complexity?', '["Shortest program that produces string", "Algorithm speed", "Data compression ratio", "Hash function output"]', 'Shortest program that produces string'),
+('q114', 5, 'What is a comonad?', '["Dual of monad", "Type of monad", "Programming pattern", "Data structure"]', 'Dual of monad'),
+('q115', 5, 'What is the actor model?', '["Concurrency model with message passing", "Design pattern", "Testing framework", "OOP principle"]', 'Concurrency model with message passing'),
+('q116', 5, 'What is linearizability?', '["Consistency model for concurrent operations", "Linear time algorithm", "Data structure", "Sorting method"]', 'Consistency model for concurrent operations'),
+('q117', 5, 'What is the difference between optimistic and pessimistic locking?', '["Optimistic assumes no conflicts", "Pessimistic is faster", "No difference", "Optimistic uses more memory"]', 'Optimistic assumes no conflicts'),
+('q118', 5, 'What is CRDTs?', '["Conflict-free Replicated Data Types", "Database types", "Cache types", "Code types"]', 'Conflict-free Replicated Data Types'),
+('q119', 5, 'What is the purpose of a semaphore?', '["Control access to shared resources", "Memory management", "Network protocol", "Encryption"]', 'Control access to shared resources'),
+('q120', 5, 'What is eventual consistency?', '["System becomes consistent over time", "Immediate consistency", "No consistency", "Partial consistency"]', 'System becomes consistent over time');

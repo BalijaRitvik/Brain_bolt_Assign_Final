@@ -1,0 +1,55 @@
+generator client {
+  provider = "prisma-client-js"
+  binaryTargets = ["native", "linux-musl-openssl-3.0.x"]
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model users {
+  id String @id
+  // Add other user fields if necessary, but requirements only say id PK.
+  // We might want created_at for metrics/admin.
+  created_at DateTime @default(now())
+}
+
+model questions {
+  id         String   @id @default(uuid())
+  difficulty Int
+  prompt     String
+  choices    Json
+  correct    String
+}
+
+model user_state {
+  userId            String   @id
+  username          String?  // Display name for leaderboard
+  currentDifficulty Int      @default(1)
+  streak            Int      @default(0)
+  maxStreak         Int      @default(0)
+  totalScore        Int      @default(0)
+  lastQuestionId    String?
+  lastAnswerAt      DateTime?
+  stateVersion      Int      @default(0)
+}
+
+model answer_log {
+  id             String   @id @default(uuid())
+  userId         String
+  questionId     String
+  selectedAnswer String
+  isCorrect      Boolean
+  scoreDelta     Int
+  answeredAt     DateTime @default(now())
+
+  @@index([userId])
+}
+
+model answer_idempotency {
+  idempotencyKey String @id
+  userId         String
+  response_json  Json
+  createdAt      DateTime @default(now())
+}
