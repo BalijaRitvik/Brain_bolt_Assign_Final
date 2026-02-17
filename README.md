@@ -4,7 +4,7 @@
 
 ## 🎥 Demo Video
 
-> **📹 Demo video will be added to the root folder before final submission.**
+> **📹 Demo video  added to the root folder .**
 > 
 > The video will include:
 > - Complete feature walkthrough (adaptive difficulty, leaderboards, streak tracking)
