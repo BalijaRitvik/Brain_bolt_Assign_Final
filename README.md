@@ -214,9 +214,7 @@ NEXT_PUBLIC_API_URL=http://localhost:3002
 ## 📖 Documentation
 
 - **[LLD.md](./LLD.md)** - Low-Level Design with architecture and algorithms
-- **[EDGE_CASES.md](./EDGE_CASES.md)** - 40+ edge cases and handling strategies
-- **[GEMINI_INTEGRATION.md](./GEMINI_INTEGRATION.md)** - AI integration setup guide
-- **[QUESTION_BANK.md](./QUESTION_BANK.md)** - Question database details
+  
 
 ---
 
@@ -225,8 +223,7 @@ NEXT_PUBLIC_API_URL=http://localhost:3002
 ### Adaptive Difficulty Algorithm
 Located in `packages/backend/src/algorithms/adaptive.ts`:
 - Momentum-based difficulty adjustment
-- Streak calculation with cap at 5 for scoring
-- Difficulty range: 1-20
+- Difficulty range based on performance
 
 ### Question Pool Management
 - Redis SETs for O(1) random selection
