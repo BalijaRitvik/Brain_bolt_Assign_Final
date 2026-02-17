@@ -21,7 +21,7 @@
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd BrainBolt
+cd Brain_Bolt
 
 # Start everything with one command
 docker-compose up -d
