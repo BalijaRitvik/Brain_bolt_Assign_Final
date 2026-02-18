@@ -39,12 +39,12 @@ services:
       context: ./packages/frontend
       dockerfile: Dockerfile
       args:
-        NEXT_PUBLIC_API_URL: http://localhost:3002
+        NEXT_PUBLIC_API_URL: http://backend:3002
     container_name: brainbolt-frontend
     ports:
       - "3001:3000"
     environment:
-      - NEXT_PUBLIC_API_URL=http://localhost:3002
+      - NEXT_PUBLIC_API_URL=http://backend:3002
       - PORT=3000
       - HOSTNAME=0.0.0.0
     depends_on:
