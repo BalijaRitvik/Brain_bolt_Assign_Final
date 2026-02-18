@@ -1,6002 +1,1202 @@
 [
   {
-    "id": "math_1_1",
+    "id": "q_1",
     "difficulty": 1,
-    "prompt": "What is 2 + 2?",
+    "prompt": "Capital of France?",
     "choices": [
-      "3",
-      "4",
-      "5",
-      "6"
+      "Paris",
+      "London",
+      "Berlin",
+      "Rome"
     ],
-    "correct": "4"
+    "correct": "Paris"
   },
   {
-    "id": "math_1_2",
+    "id": "q_2",
     "difficulty": 1,
-    "prompt": "What is 5 - 3?",
+    "prompt": "2 + 7 = ?",
     "choices": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct": "2"
-  },
-  {
-    "id": "math_1_3",
-    "difficulty": 1,
-    "prompt": "What is 3 * 4?",
-    "choices": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correct": "12"
-  },
-  {
-    "id": "math_1_4",
-    "difficulty": 1,
-    "prompt": "What is 10 / 2?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "math_1_5",
-    "difficulty": 1,
-    "prompt": "What is the square of 3?",
-    "choices": [
-      "6",
-      "8",
       "9",
-      "12"
+      "7",
+      "8",
+      "3"
     ],
     "correct": "9"
   },
   {
-    "id": "math_1_6",
+    "id": "q_3",
     "difficulty": 1,
-    "prompt": "What is 7 + 8?",
+    "prompt": "Which device is used to input text?",
     "choices": [
-      "14",
-      "15",
-      "16",
-      "17"
+      "Keyboard",
+      "Monitor",
+      "Speaker",
+      "Printer"
     ],
-    "correct": "15"
+    "correct": "Keyboard"
   },
   {
-    "id": "math_1_7",
+    "id": "q_4",
     "difficulty": 1,
-    "prompt": "What is 9 - 4?",
+    "prompt": "Largest planet in our solar system?",
     "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
+      "Mars",
+      "Earth",
+      "Jupiter",
+      "Venus"
     ],
-    "correct": "5"
+    "correct": "Jupiter"
   },
   {
-    "id": "math_1_8",
+    "id": "q_5",
     "difficulty": 1,
-    "prompt": "What is 6 * 2?",
+    "prompt": "5 \u00d7 4 = ?",
     "choices": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correct": "12"
-  },
-  {
-    "id": "math_1_9",
-    "difficulty": 1,
-    "prompt": "What is 20 / 4?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "math_1_10",
-    "difficulty": 1,
-    "prompt": "What is the square root of 16?",
-    "choices": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correct": "4"
-  },
-  {
-    "id": "math_1_11",
-    "difficulty": 1,
-    "prompt": "What is 1 + 9?",
-    "choices": [
-      "9",
-      "10",
-      "11",
-      "12"
-    ],
-    "correct": "10"
-  },
-  {
-    "id": "math_1_12",
-    "difficulty": 1,
-    "prompt": "What is 8 - 2?",
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correct": "6"
-  },
-  {
-    "id": "math_1_13",
-    "difficulty": 1,
-    "prompt": "What is 4 * 5?",
-    "choices": [
-      "18",
-      "19",
+      "29",
       "20",
-      "21"
+      "14",
+      "30"
     ],
     "correct": "20"
   },
   {
-    "id": "math_1_14",
-    "difficulty": 1,
-    "prompt": "What is 15 / 3?",
+    "id": "q_6",
+    "difficulty": 2,
+    "prompt": "Capital of France?",
     "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
+      "Paris",
+      "London",
+      "Berlin",
+      "Rome"
     ],
-    "correct": "5"
+    "correct": "Paris"
   },
   {
-    "id": "math_1_15",
-    "difficulty": 1,
-    "prompt": "What is 2 squared?",
-    "choices": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correct": "4"
-  },
-  {
-    "id": "math_1_16",
-    "difficulty": 1,
-    "prompt": "What is 3 + 7?",
+    "id": "q_7",
+    "difficulty": 2,
+    "prompt": "2 + 7 = ?",
     "choices": [
       "9",
-      "10",
-      "11",
-      "12"
-    ],
-    "correct": "10"
-  },
-  {
-    "id": "math_1_17",
-    "difficulty": 1,
-    "prompt": "What is 10 - 6?",
-    "choices": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correct": "4"
-  },
-  {
-    "id": "math_1_18",
-    "difficulty": 1,
-    "prompt": "What is 7 * 3?",
-    "choices": [
-      "19",
-      "20",
-      "21",
-      "22"
-    ],
-    "correct": "21"
-  },
-  {
-    "id": "math_1_19",
-    "difficulty": 1,
-    "prompt": "What is 18 / 2?",
-    "choices": [
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "correct": "9"
-  },
-  {
-    "id": "math_1_20",
-    "difficulty": 1,
-    "prompt": "What is the square of 4?",
-    "choices": [
-      "14",
-      "15",
+      "7",
       "16",
-      "17"
-    ],
-    "correct": "16"
-  },
-  {
-    "id": "math_1_21",
-    "difficulty": 1,
-    "prompt": "What is 5 + 6?",
-    "choices": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correct": "11"
-  },
-  {
-    "id": "math_1_22",
-    "difficulty": 1,
-    "prompt": "What is 9 - 5?",
-    "choices": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correct": "4"
-  },
-  {
-    "id": "math_1_23",
-    "difficulty": 1,
-    "prompt": "What is 8 * 4?",
-    "choices": [
-      "30",
-      "31",
-      "32",
-      "33"
-    ],
-    "correct": "32"
-  },
-  {
-    "id": "math_1_24",
-    "difficulty": 1,
-    "prompt": "What is 24 / 6?",
-    "choices": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correct": "4"
-  },
-  {
-    "id": "math_1_25",
-    "difficulty": 1,
-    "prompt": "What is the square root of 9?",
-    "choices": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correct": "3"
-  },
-  {
-    "id": "math_2_1",
-    "difficulty": 20,
-    "prompt": "What is 12 + 15?",
-    "choices": [
-      "25",
-      "26",
-      "27",
-      "28"
-    ],
-    "correct": "27"
-  },
-  {
-    "id": "math_2_2",
-    "difficulty": 20,
-    "prompt": "What is 20 - 7?",
-    "choices": [
-      "12",
-      "13",
-      "14",
-      "15"
-    ],
-    "correct": "13"
-  },
-  {
-    "id": "math_2_3",
-    "difficulty": 20,
-    "prompt": "What is 9 * 7?",
-    "choices": [
-      "61",
-      "62",
-      "63",
-      "64"
-    ],
-    "correct": "63"
-  },
-  {
-    "id": "math_2_4",
-    "difficulty": 20,
-    "prompt": "What is 36 / 4?",
-    "choices": [
-      "8",
-      "9",
-      "10",
-      "11"
+      "-1"
     ],
     "correct": "9"
   },
   {
-    "id": "math_2_5",
-    "difficulty": 20,
-    "prompt": "What is 5 squared?",
+    "id": "q_8",
+    "difficulty": 2,
+    "prompt": "Which device is used to input text?",
+    "choices": [
+      "Keyboard",
+      "Monitor",
+      "Speaker",
+      "Printer"
+    ],
+    "correct": "Keyboard"
+  },
+  {
+    "id": "q_9",
+    "difficulty": 2,
+    "prompt": "Largest planet in our solar system?",
+    "choices": [
+      "Mars",
+      "Earth",
+      "Jupiter",
+      "Venus"
+    ],
+    "correct": "Jupiter"
+  },
+  {
+    "id": "q_10",
+    "difficulty": 2,
+    "prompt": "5 \u00d7 4 = ?",
     "choices": [
       "20",
-      "24",
-      "25",
+      "23",
+      "22",
       "26"
     ],
-    "correct": "25"
+    "correct": "20"
   },
   {
-    "id": "math_2_6",
-    "difficulty": 20,
-    "prompt": "What is 14 + 18?",
+    "id": "q_11",
+    "difficulty": 3,
+    "prompt": "Capital of France?",
     "choices": [
-      "30",
-      "31",
-      "32",
-      "33"
+      "Paris",
+      "London",
+      "Berlin",
+      "Rome"
     ],
-    "correct": "32"
+    "correct": "Paris"
   },
   {
-    "id": "math_2_7",
-    "difficulty": 20,
-    "prompt": "What is 25 - 9?",
+    "id": "q_12",
+    "difficulty": 3,
+    "prompt": "2 + 7 = ?",
     "choices": [
-      "15",
-      "16",
-      "17",
-      "18"
-    ],
-    "correct": "16"
-  },
-  {
-    "id": "math_2_8",
-    "difficulty": 20,
-    "prompt": "What is 8 * 9?",
-    "choices": [
-      "70",
-      "71",
-      "72",
-      "73"
-    ],
-    "correct": "72"
-  },
-  {
-    "id": "math_2_9",
-    "difficulty": 20,
-    "prompt": "What is 48 / 6?",
-    "choices": [
-      "7",
-      "8",
       "9",
-      "10"
+      "-1",
+      "10",
+      "3"
     ],
-    "correct": "8"
+    "correct": "9"
   },
   {
-    "id": "math_2_10",
-    "difficulty": 20,
-    "prompt": "What is the square root of 25?",
+    "id": "q_13",
+    "difficulty": 3,
+    "prompt": "Which device is used to input text?",
     "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
+      "Keyboard",
+      "Monitor",
+      "Speaker",
+      "Printer"
     ],
-    "correct": "5"
+    "correct": "Keyboard"
   },
   {
-    "id": "math_2_11",
-    "difficulty": 20,
-    "prompt": "What is 16 + 19?",
+    "id": "q_14",
+    "difficulty": 3,
+    "prompt": "Largest planet in our solar system?",
     "choices": [
-      "33",
-      "34",
-      "35",
-      "36"
+      "Mars",
+      "Earth",
+      "Jupiter",
+      "Venus"
     ],
-    "correct": "35"
+    "correct": "Jupiter"
   },
   {
-    "id": "math_2_12",
-    "difficulty": 20,
-    "prompt": "What is 30 - 12?",
+    "id": "q_15",
+    "difficulty": 3,
+    "prompt": "5 \u00d7 4 = ?",
     "choices": [
-      "17",
-      "18",
+      "20",
+      "16",
       "19",
-      "20"
-    ],
-    "correct": "18"
-  },
-  {
-    "id": "math_2_13",
-    "difficulty": 20,
-    "prompt": "What is 11 * 6?",
-    "choices": [
-      "64",
-      "65",
-      "66",
-      "67"
-    ],
-    "correct": "66"
-  },
-  {
-    "id": "math_2_14",
-    "difficulty": 20,
-    "prompt": "What is 54 / 9?",
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correct": "6"
-  },
-  {
-    "id": "math_2_15",
-    "difficulty": 20,
-    "prompt": "What is 6 squared?",
-    "choices": [
-      "30",
-      "35",
-      "36",
-      "37"
-    ],
-    "correct": "36"
-  },
-  {
-    "id": "math_2_16",
-    "difficulty": 20,
-    "prompt": "What is 21 + 22?",
-    "choices": [
-      "42",
-      "43",
-      "44",
-      "45"
-    ],
-    "correct": "43"
-  },
-  {
-    "id": "math_2_17",
-    "difficulty": 20,
-    "prompt": "What is 35 - 17?",
-    "choices": [
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "correct": "18"
-  },
-  {
-    "id": "math_2_18",
-    "difficulty": 20,
-    "prompt": "What is 12 * 8?",
-    "choices": [
-      "94",
-      "95",
-      "96",
-      "97"
-    ],
-    "correct": "96"
-  },
-  {
-    "id": "math_2_19",
-    "difficulty": 20,
-    "prompt": "What is 60 / 5?",
-    "choices": [
-      "11",
-      "12",
-      "13",
       "14"
     ],
-    "correct": "12"
+    "correct": "20"
   },
   {
-    "id": "math_2_20",
-    "difficulty": 20,
-    "prompt": "What is the square root of 36?",
+    "id": "q_16",
+    "difficulty": 4,
+    "prompt": "Capital of France?",
     "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
+      "Paris",
+      "London",
+      "Berlin",
+      "Rome"
     ],
-    "correct": "6"
+    "correct": "Paris"
   },
   {
-    "id": "math_2_21",
-    "difficulty": 20,
-    "prompt": "What is 27 + 28?",
+    "id": "q_17",
+    "difficulty": 4,
+    "prompt": "2 + 7 = ?",
     "choices": [
-      "54",
-      "55",
-      "56",
-      "57"
-    ],
-    "correct": "55"
-  },
-  {
-    "id": "math_2_22",
-    "difficulty": 20,
-    "prompt": "What is 40 - 23?",
-    "choices": [
-      "16",
-      "17",
-      "18",
-      "19"
-    ],
-    "correct": "17"
-  },
-  {
-    "id": "math_2_23",
-    "difficulty": 20,
-    "prompt": "What is 13 * 9?",
-    "choices": [
-      "115",
-      "116",
-      "117",
-      "118"
-    ],
-    "correct": "117"
-  },
-  {
-    "id": "math_2_24",
-    "difficulty": 20,
-    "prompt": "What is 72 / 8?",
-    "choices": [
-      "8",
+      "3",
+      "11",
       "9",
-      "10",
-      "11"
+      "14"
     ],
     "correct": "9"
   },
   {
-    "id": "math_2_25",
-    "difficulty": 20,
-    "prompt": "What is 7 squared?",
+    "id": "q_18",
+    "difficulty": 4,
+    "prompt": "Which device is used to input text?",
     "choices": [
-      "47",
-      "48",
-      "49",
-      "50"
+      "Keyboard",
+      "Monitor",
+      "Speaker",
+      "Printer"
     ],
-    "correct": "49"
+    "correct": "Keyboard"
   },
   {
-    "id": "math_3_1",
-    "difficulty": 10,
-    "prompt": "What is the area of a rectangle with length 5 and width 3?",
+    "id": "q_19",
+    "difficulty": 4,
+    "prompt": "Largest planet in our solar system?",
     "choices": [
-      "14",
-      "15",
-      "16",
-      "17"
+      "Mars",
+      "Earth",
+      "Jupiter",
+      "Venus"
     ],
-    "correct": "15"
+    "correct": "Jupiter"
   },
   {
-    "id": "math_3_2",
-    "difficulty": 10,
-    "prompt": "What is 2x + 3 = 7, solve for x?",
+    "id": "q_20",
+    "difficulty": 4,
+    "prompt": "5 \u00d7 4 = ?",
     "choices": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct": "2"
-  },
-  {
-    "id": "math_3_3",
-    "difficulty": 10,
-    "prompt": "What is the perimeter of a square with side 4?",
-    "choices": [
-      "14",
-      "15",
-      "16",
-      "17"
-    ],
-    "correct": "16"
-  },
-  {
-    "id": "math_3_4",
-    "difficulty": 10,
-    "prompt": "What is 3x - 5 = 10, solve for x?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "math_3_5",
-    "difficulty": 10,
-    "prompt": "What is the volume of a cube with side 2?",
-    "choices": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correct": "8"
-  },
-  {
-    "id": "math_3_6",
-    "difficulty": 10,
-    "prompt": "What is 4x + 2 = 18, solve for x?",
-    "choices": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correct": "4"
-  },
-  {
-    "id": "math_3_7",
-    "difficulty": 10,
-    "prompt": "What is the area of a triangle with base 6 and height 4?",
-    "choices": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correct": "12"
-  },
-  {
-    "id": "math_3_8",
-    "difficulty": 10,
-    "prompt": "What is 5x - 3 = 22, solve for x?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "math_3_9",
-    "difficulty": 10,
-    "prompt": "What is the circumference of a circle with radius 3? (Use π=3.14)",
-    "choices": [
-      "18.84",
-      "18.85",
-      "18.86",
-      "18.87"
-    ],
-    "correct": "18.84"
-  },
-  {
-    "id": "math_3_10",
-    "difficulty": 10,
-    "prompt": "What is 6x + 4 = 34, solve for x?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "math_3_11",
-    "difficulty": 10,
-    "prompt": "What is the area of a circle with radius 2? (Use π=3.14)",
-    "choices": [
-      "12.56",
-      "12.57",
-      "12.58",
-      "12.59"
-    ],
-    "correct": "12.56"
-  },
-  {
-    "id": "math_3_12",
-    "difficulty": 10,
-    "prompt": "What is 7x - 2 = 19, solve for x?",
-    "choices": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correct": "3"
-  },
-  {
-    "id": "math_3_13",
-    "difficulty": 10,
-    "prompt": "What is the volume of a rectangular prism with length 3, width 4, height 2?",
-    "choices": [
-      "23",
-      "24",
-      "25",
-      "26"
-    ],
-    "correct": "24"
-  },
-  {
-    "id": "math_3_14",
-    "difficulty": 10,
-    "prompt": "What is 8x + 5 = 61, solve for x?",
-    "choices": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correct": "7"
-  },
-  {
-    "id": "math_3_15",
-    "difficulty": 10,
-    "prompt": "What is the area of a square with side 5?",
-    "choices": [
-      "24",
-      "25",
-      "26",
-      "27"
-    ],
-    "correct": "25"
-  },
-  {
-    "id": "math_3_16",
-    "difficulty": 10,
-    "prompt": "What is 9x - 7 = 38, solve for x?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "math_3_17",
-    "difficulty": 10,
-    "prompt": "What is the perimeter of a rectangle with length 7 and width 3?",
-    "choices": [
-      "19",
       "20",
+      "13",
       "21",
-      "22"
+      "10"
     ],
     "correct": "20"
   },
   {
-    "id": "math_3_18",
-    "difficulty": 10,
-    "prompt": "What is 10x + 3 = 53, solve for x?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "math_3_19",
-    "difficulty": 10,
-    "prompt": "What is the volume of a sphere with radius 2? (Use π=3.14, formula 4/3πr³)",
-    "choices": [
-      "33.49",
-      "33.50",
-      "33.51",
-      "33.52"
-    ],
-    "correct": "33.49"
-  },
-  {
-    "id": "math_3_20",
-    "difficulty": 10,
-    "prompt": "What is 11x - 4 = 51, solve for x?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "math_3_21",
-    "difficulty": 10,
-    "prompt": "What is the area of a trapezoid with bases 5 and 7, height 3?",
-    "choices": [
-      "17",
-      "18",
-      "19",
-      "20"
-    ],
-    "correct": "18"
-  },
-  {
-    "id": "math_3_22",
-    "difficulty": 10,
-    "prompt": "What is 12x + 6 = 78, solve for x?",
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correct": "6"
-  },
-  {
-    "id": "math_3_23",
-    "difficulty": 10,
-    "prompt": "What is the circumference of a circle with diameter 6? (Use π=3.14)",
-    "choices": [
-      "18.84",
-      "18.85",
-      "18.86",
-      "18.87"
-    ],
-    "correct": "18.84"
-  },
-  {
-    "id": "math_3_24",
-    "difficulty": 10,
-    "prompt": "What is 13x - 5 = 64, solve for x?",
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "math_3_25",
-    "difficulty": 10,
-    "prompt": "What is the volume of a cylinder with radius 2 and height 5? (Use π=3.14)",
-    "choices": [
-      "62.8",
-      "62.81",
-      "62.82",
-      "62.83"
-    ],
-    "correct": "62.8"
-  },
-  {
-    "id": "math_4_1",
-    "difficulty": 15,
-    "prompt": "Solve x² - 5x + 6 = 0",
-    "choices": [
-      "x=2,3",
-      "x=1,6",
-      "x=3,2",
-      "x=6,1"
-    ],
-    "correct": "x=2,3"
-  },
-  {
-    "id": "math_4_2",
-    "difficulty": 15,
-    "prompt": "What is the derivative of x²?",
-    "choices": [
-      "x",
-      "2x",
-      "3x²",
-      "x²"
-    ],
-    "correct": "2x"
-  },
-  {
-    "id": "math_4_3",
-    "difficulty": 15,
-    "prompt": "Solve x² + 4x + 4 = 0",
-    "choices": [
-      "x=-2",
-      "x=2",
-      "x=-4",
-      "x=4"
-    ],
-    "correct": "x=-2"
-  },
-  {
-    "id": "math_4_4",
-    "difficulty": 15,
-    "prompt": "What is the integral of 2x dx?",
-    "choices": [
-      "x²",
-      "2x²",
-      "x² + C",
-      "2x² + C"
-    ],
-    "correct": "x² + C"
-  },
-  {
-    "id": "math_4_5",
-    "difficulty": 15,
-    "prompt": "Solve 2x + 3y = 6, x - y = 1",
-    "choices": [
-      "x=3, y=2",
-      "x=2, y=1",
-      "x=1, y=0",
-      "x=4, y=3"
-    ],
-    "correct": "x=3, y=2"
-  },
-  {
-    "id": "math_4_6",
-    "difficulty": 15,
-    "prompt": "What is the derivative of sin(x)?",
-    "choices": [
-      "cos(x)",
-      "-sin(x)",
-      "tan(x)",
-      "sec(x)"
-    ],
-    "correct": "cos(x)"
-  },
-  {
-    "id": "math_4_7",
-    "difficulty": 15,
-    "prompt": "Solve x² - 9 = 0",
-    "choices": [
-      "x=3",
-      "x=-3",
-      "x=3,-3",
-      "x=9"
-    ],
-    "correct": "x=3,-3"
-  },
-  {
-    "id": "math_4_8",
-    "difficulty": 15,
-    "prompt": "What is the integral of cos(x) dx?",
-    "choices": [
-      "sin(x)",
-      "-sin(x)",
-      "sin(x) + C",
-      "-sin(x) + C"
-    ],
-    "correct": "sin(x) + C"
-  },
-  {
-    "id": "math_4_9",
-    "difficulty": 15,
-    "prompt": "Solve 3x - 2y = 7, x + y = 4",
-    "choices": [
-      "x=3, y=1",
-      "x=2, y=2",
-      "x=1, y=3",
-      "x=4, y=0"
-    ],
-    "correct": "x=3, y=1"
-  },
-  {
-    "id": "math_4_10",
-    "difficulty": 15,
-    "prompt": "What is the derivative of e^x?",
-    "choices": [
-      "e^x",
-      "x e^x",
-      "ln(x)",
-      "1/x"
-    ],
-    "correct": "e^x"
-  },
-  {
-    "id": "math_4_11",
-    "difficulty": 15,
-    "prompt": "Solve x² + 2x - 8 = 0",
-    "choices": [
-      "x=2,4",
-      "x=-4,2",
-      "x=4,-2",
-      "x=-2,-4"
-    ],
-    "correct": "x=-4,2"
-  },
-  {
-    "id": "math_4_12",
-    "difficulty": 15,
-    "prompt": "What is the integral of x dx?",
-    "choices": [
-      "x²/2",
-      "x²",
-      "x²/2 + C",
-      "x² + C"
-    ],
-    "correct": "x²/2 + C"
-  },
-  {
-    "id": "math_4_13",
-    "difficulty": 15,
-    "prompt": "Solve 4x + 5y = 20, 2x - y = 4",
-    "choices": [
-      "x=3, y=2",
-      "x=2, y=2",
-      "x=4, y=0",
-      "x=1, y=3"
-    ],
-    "correct": "x=2, y=2"
-  },
-  {
-    "id": "math_4_14",
-    "difficulty": 15,
-    "prompt": "What is the derivative of ln(x)?",
-    "choices": [
-      "1/x",
-      "x",
-      "e^x",
-      "ln(x)"
-    ],
-    "correct": "1/x"
-  },
-  {
-    "id": "math_4_15",
-    "difficulty": 15,
-    "prompt": "Solve x² - 4x + 3 = 0",
-    "choices": [
-      "x=1,3",
-      "x=3,1",
-      "x=4,3",
-      "x=1,4"
-    ],
-    "correct": "x=1,3"
-  },
-  {
-    "id": "math_4_16",
-    "difficulty": 15,
-    "prompt": "What is the integral of e^x dx?",
-    "choices": [
-      "e^x",
-      "x e^x",
-      "e^x + C",
-      "x e^x + C"
-    ],
-    "correct": "e^x + C"
-  },
-  {
-    "id": "math_4_17",
-    "difficulty": 15,
-    "prompt": "Solve x + 2y = 5, 3x - y = 6",
-    "choices": [
-      "x=2, y=1.5",
-      "x=1, y=2",
-      "x=3, y=1",
-      "x=4, y=0.5"
-    ],
-    "correct": "x=2, y=1.5"
-  },
-  {
-    "id": "math_4_18",
-    "difficulty": 15,
-    "prompt": "What is the derivative of x^3?",
-    "choices": [
-      "3x²",
-      "x²",
-      "3x",
-      "x^3"
-    ],
-    "correct": "3x²"
-  },
-  {
-    "id": "math_4_19",
-    "difficulty": 15,
-    "prompt": "Solve 2x² - 8 = 0",
-    "choices": [
-      "x=2",
-      "x=-2",
-      "x=2,-2",
-      "x=4"
-    ],
-    "correct": "x=2,-2"
-  },
-  {
-    "id": "math_4_20",
-    "difficulty": 15,
-    "prompt": "What is the integral of 3x² dx?",
-    "choices": [
-      "x^3",
-      "3x^3",
-      "x^3 + C",
-      "3x^3 + C"
-    ],
-    "correct": "x^3 + C"
-  },
-  {
-    "id": "math_4_21",
-    "difficulty": 15,
-    "prompt": "Solve 5x + 3y = 15, x - 2y = 1",
-    "choices": [
-      "x=2, y=1",
-      "x=3, y=0",
-      "x=1, y=2",
-      "x=4, y=1"
-    ],
-    "correct": "x=2, y=1"
-  },
-  {
-    "id": "math_4_22",
-    "difficulty": 15,
-    "prompt": "What is the derivative of tan(x)?",
-    "choices": [
-      "sec²(x)",
-      "cos(x)",
-      "sin(x)",
-      "cot(x)"
-    ],
-    "correct": "sec²(x)"
-  },
-  {
-    "id": "math_4_23",
-    "difficulty": 15,
-    "prompt": "Solve x² + 6x + 9 = 0",
-    "choices": [
-      "x=-3",
-      "x=3",
-      "x=-9",
-      "x=9"
-    ],
-    "correct": "x=-3"
-  },
-  {
-    "id": "math_4_24",
-    "difficulty": 15,
-    "prompt": "What is the integral of sec²(x) dx?",
-    "choices": [
-      "tan(x)",
-      "cot(x)",
-      "tan(x) + C",
-      "cot(x) + C"
-    ],
-    "correct": "tan(x) + C"
-  },
-  {
-    "id": "math_4_25",
-    "difficulty": 15,
-    "prompt": "Solve 4x - 3y = 12, 2x + y = 8",
-    "choices": [
-      "x=3, y=2",
-      "x=4, y=0",
-      "x=2, y=4",
-      "x=5, y=-2"
-    ],
-    "correct": "x=3, y=2"
-  },
-  {
-    "id": "math_5_1",
-    "difficulty": 20,
-    "prompt": "What is the limit of (x² - 1)/(x - 1) as x approaches 1?",
-    "choices": [
-      "0",
-      "1",
-      "2",
-      "undefined"
-    ],
-    "correct": "2"
-  },
-  {
-    "id": "math_5_2",
-    "difficulty": 20,
-    "prompt": "Solve the differential equation dy/dx = 2x",
-    "choices": [
-      "y = x² + C",
-      "y = 2x + C",
-      "y = x²",
-      "y = 2x"
-    ],
-    "correct": "y = x² + C"
-  },
-  {
-    "id": "math_5_3",
-    "difficulty": 20,
-    "prompt": "What is the eigenvalue of matrix [[2,0],[0,3]]?",
-    "choices": [
-      "2,3",
-      "3,2",
-      "5",
-      "6"
-    ],
-    "correct": "2,3"
-  },
-  {
-    "id": "math_5_4",
-    "difficulty": 20,
-    "prompt": "What is the integral of 1/x dx?",
-    "choices": [
-      "ln|x| + C",
-      "x + C",
-      "e^x + C",
-      "1/x + C"
-    ],
-    "correct": "ln|x| + C"
-  },
-  {
-    "id": "math_5_5",
-    "difficulty": 20,
-    "prompt": "Solve the system dx/dt = x + y, dy/dt = x - y",
-    "choices": [
-      "x = c1 e^{2t} + c2 e^{-2t}, y = c1 e^{2t} - c2 e^{-2t}",
-      "x = e^t, y = e^{-t}",
-      "x = t, y = -t",
-      "x = 2t, y = t"
-    ],
-    "correct": "x = c1 e^{2t} + c2 e^{-2t}, y = c1 e^{2t} - c2 e^{-2t}"
-  },
-  {
-    "id": "math_5_6",
-    "difficulty": 20,
-    "prompt": "What is the derivative of f(x) = x^4?",
-    "choices": [
-      "4x^3",
-      "x^3",
-      "4x",
-      "x^4"
-    ],
-    "correct": "4x^3"
-  },
-  {
-    "id": "math_5_7",
-    "difficulty": 20,
-    "prompt": "Solve x^3 - 8 = 0",
-    "choices": [
-      "x=2",
-      "x=-2",
-      "x=2, -1±√3i",
-      "x=8"
-    ],
-    "correct": "x=2"
-  },
-  {
-    "id": "math_5_8",
-    "difficulty": 20,
-    "prompt": "What is the Fourier transform of e^{-a|t|}",
-    "choices": [
-      "2a/(a² + ω²)",
-      "1/(a + ω)",
-      "e^{-aω}",
-      "2a/(a² - ω²)"
-    ],
-    "correct": "2a/(a² + ω²)"
-  },
-  {
-    "id": "math_5_9",
-    "difficulty": 20,
-    "prompt": "What is the limit of sin(x)/x as x approaches 0?",
-    "choices": [
-      "0",
-      "1",
-      "∞",
-      "undefined"
-    ],
-    "correct": "1"
-  },
-  {
-    "id": "math_5_10",
-    "difficulty": 20,
-    "prompt": "Solve the PDE ∂u/∂t = ∂²u/∂x²",
-    "choices": [
-      "u = f(x - ct) + g(x + ct)",
-      "u = e^{-t} f(x)",
-      "u = sin(x) cos(t)",
-      "u = x t"
-    ],
-    "correct": "u = f(x - ct) + g(x + ct)"
-  },
-  {
-    "id": "math_5_11",
-    "difficulty": 20,
-    "prompt": "What is the integral of sin²(x) dx?",
-    "choices": [
-      "x/2 - sin(2x)/4 + C",
-      "sin(x) + C",
-      "cos(x) + C",
-      "x - sin(x) + C"
-    ],
-    "correct": "x/2 - sin(2x)/4 + C"
-  },
-  {
-    "id": "math_5_12",
-    "difficulty": 20,
-    "prompt": "What is the determinant of [[1,2],[3,4]]?",
-    "choices": [
-      "-2",
-      "2",
-      "10",
-      "7"
-    ],
-    "correct": "-2"
-  },
-  {
-    "id": "math_5_13",
-    "difficulty": 20,
-    "prompt": "Solve the integral equation ∫0^x f(t) dt = x²",
-    "choices": [
-      "f(x) = 2x",
-      "f(x) = x",
-      "f(x) = x²",
-      "f(x) = 1"
-    ],
-    "correct": "f(x) = 2x"
-  },
-  {
-    "id": "math_5_14",
-    "difficulty": 20,
-    "prompt": "What is the derivative of f(x) = ln(x) * x?",
-    "choices": [
-      "ln(x) + 1",
-      "x ln(x)",
-      "1/x + ln(x)",
-      "x / ln(x)"
-    ],
-    "correct": "ln(x) + 1"
-  },
-  {
-    "id": "math_5_15",
-    "difficulty": 20,
-    "prompt": "Solve x^4 - 16 = 0",
-    "choices": [
-      "x=2",
-      "x=-2",
-      "x=2,-2,2i,-2i",
-      "x=4"
-    ],
-    "correct": "x=2,-2,2i,-2i"
-  },
-  {
-    "id": "math_5_16",
-    "difficulty": 20,
-    "prompt": "What is the Laplace transform of t?",
-    "choices": [
-      "1/s²",
-      "1/s",
-      "s",
-      "s²"
-    ],
-    "correct": "1/s²"
-  },
-  {
-    "id": "math_5_17",
-    "difficulty": 20,
-    "prompt": "What is the limit of (1 + 1/x)^x as x approaches ∞?",
-    "choices": [
-      "0",
-      "1",
-      "e",
-      "∞"
-    ],
-    "correct": "e"
-  },
-  {
-    "id": "math_5_18",
-    "difficulty": 20,
-    "prompt": "Solve the differential equation y'' + y = 0",
-    "choices": [
-      "y = A cos(x) + B sin(x)",
-      "y = A e^x + B e^{-x}",
-      "y = A x + B",
-      "y = A + B x"
-    ],
-    "correct": "y = A cos(x) + B sin(x)"
-  },
-  {
-    "id": "math_5_19",
-    "difficulty": 20,
-    "prompt": "What is the integral of dx / (x² + 1)?",
-    "choices": [
-      "arctan(x) + C",
-      "ln|x| + C",
-      "1/x + C",
-      "e^x + C"
-    ],
-    "correct": "arctan(x) + C"
-  },
-  {
-    "id": "math_5_20",
-    "difficulty": 20,
-    "prompt": "What is the rank of matrix [[1,2,3],[4,5,6],[7,8,9]]?",
-    "choices": [
-      "1",
-      "2",
-      "3",
-      "0"
-    ],
-    "correct": "2"
-  },
-  {
-    "id": "math_5_21",
-    "difficulty": 20,
-    "prompt": "Solve the integral ∫ e^x sin(x) dx",
-    "choices": [
-      "(e^x / 2) (sin(x) - cos(x)) + C",
-      "e^x sin(x) + C",
-      "e^x cos(x) + C",
-      "sin(x) + C"
-    ],
-    "correct": "(e^x / 2) (sin(x) - cos(x)) + C"
-  },
-  {
-    "id": "math_5_22",
-    "difficulty": 20,
-    "prompt": "What is the derivative of f(x) = x^x?",
-    "choices": [
-      "x^x (ln(x) + 1)",
-      "x^x ln(x)",
-      "x^x",
-      "x ln(x)"
-    ],
-    "correct": "x^x (ln(x) + 1)"
-  },
-  {
-    "id": "math_5_23",
-    "difficulty": 20,
-    "prompt": "Solve x^3 + 8 = 0",
-    "choices": [
-      "x=-2",
-      "x=2",
-      "x=-2, 1±√3i",
-      "x=8"
-    ],
-    "correct": "x=-2"
-  },
-  {
-    "id": "math_5_24",
-    "difficulty": 20,
-    "prompt": "What is the Green's function for -d²/dx²?",
-    "choices": [
-      "|x - y| / 2",
-      "x y",
-      "e^{-|x - y|}",
-      "sin(x) cos(y)"
-    ],
-    "correct": "|x - y| / 2"
-  },
-  {
-    "id": "math_5_25",
-    "difficulty": 20,
-    "prompt": "What is the limit of n! / n^n as n approaches ∞?",
-    "choices": [
-      "0",
-      "1",
-      "e",
-      "∞"
-    ],
-    "correct": "0"
-  },
-  {
-    "id": "prog_1_1",
-    "difficulty": 1,
-    "prompt": "What is a variable in programming?",
-    "choices": [
-      "A type of loop",
-      "A storage location",
-      "A function",
-      "A class"
-    ],
-    "correct": "A storage location"
-  },
-  {
-    "id": "prog_1_2",
-    "difficulty": 1,
-    "prompt": "What does 'print' do in most languages?",
-    "choices": [
-      "Reads input",
-      "Displays output",
-      "Calculates sum",
-      "Defines function"
-    ],
-    "correct": "Displays output"
-  },
-  {
-    "id": "prog_1_3",
-    "difficulty": 1,
-    "prompt": "What is a string?",
-    "choices": [
-      "A number",
-      "A sequence of characters",
-      "A boolean",
-      "A list"
-    ],
-    "correct": "A sequence of characters"
-  },
-  {
-    "id": "prog_1_4",
-    "difficulty": 1,
-    "prompt": "What is an integer?",
-    "choices": [
-      "A decimal number",
-      "A whole number",
-      "A text",
-      "A true/false value"
-    ],
-    "correct": "A whole number"
-  },
-  {
-    "id": "prog_1_5",
-    "difficulty": 1,
-    "prompt": "What is a comment in code?",
-    "choices": [
-      "Executable code",
-      "Ignored text",
-      "A variable",
-      "A function"
-    ],
-    "correct": "Ignored text"
-  },
-  {
-    "id": "prog_1_6",
-    "difficulty": 1,
-    "prompt": "What is a loop?",
-    "choices": [
-      "A single statement",
-      "Repeated execution",
-      "A data type",
-      "A file"
-    ],
-    "correct": "Repeated execution"
-  },
-  {
-    "id": "prog_1_7",
-    "difficulty": 1,
-    "prompt": "What is an array?",
-    "choices": [
-      "A single value",
-      "A collection of values",
-      "A function",
-      "A loop"
-    ],
-    "correct": "A collection of values"
-  },
-  {
-    "id": "prog_1_8",
-    "difficulty": 1,
-    "prompt": "What is a function?",
-    "choices": [
-      "A variable",
-      "A reusable code block",
-      "A number",
-      "A string"
-    ],
-    "correct": "A reusable code block"
-  },
-  {
-    "id": "prog_1_9",
-    "difficulty": 1,
-    "prompt": "What is a boolean?",
-    "choices": [
-      "A number",
-      "True or false",
-      "A text",
-      "A list"
-    ],
-    "correct": "True or false"
-  },
-  {
-    "id": "prog_1_10",
-    "difficulty": 1,
-    "prompt": "What is syntax?",
-    "choices": [
-      "Program logic",
-      "Code structure rules",
-      "Data storage",
-      "Output display"
-    ],
-    "correct": "Code structure rules"
-  },
-  {
-    "id": "prog_1_11",
-    "difficulty": 1,
-    "prompt": "What is a keyword?",
-    "choices": [
-      "User-defined name",
-      "Reserved word",
-      "A comment",
-      "A variable"
-    ],
-    "correct": "Reserved word"
-  },
-  {
-    "id": "prog_1_12",
-    "difficulty": 1,
-    "prompt": "What is debugging?",
-    "choices": [
-      "Writing code",
-      "Finding errors",
-      "Running program",
-      "Saving file"
-    ],
-    "correct": "Finding errors"
-  },
-  {
-    "id": "prog_1_13",
-    "difficulty": 1,
-    "prompt": "What is an IDE?",
-    "choices": [
-      "A programming language",
-      "Development environment",
-      "A data type",
-      "A loop"
-    ],
-    "correct": "Development environment"
-  },
-  {
-    "id": "prog_1_14",
-    "difficulty": 1,
-    "prompt": "What is a compiler?",
-    "choices": [
-      "Translates code",
-      "Runs code",
-      "Edits code",
-      "Saves code"
-    ],
-    "correct": "Translates code"
-  },
-  {
-    "id": "prog_1_15",
-    "difficulty": 1,
-    "prompt": "What is a bug?",
-    "choices": [
-      "A feature",
-      "An error",
-      "A comment",
-      "A function"
-    ],
-    "correct": "An error"
-  },
-  {
-    "id": "prog_1_16",
-    "difficulty": 1,
-    "prompt": "What is input?",
-    "choices": [
-      "Program output",
-      "Data given to program",
-      "Code syntax",
-      "A variable"
-    ],
-    "correct": "Data given to program"
-  },
-  {
-    "id": "prog_1_17",
-    "difficulty": 1,
-    "prompt": "What is output?",
-    "choices": [
-      "Program input",
-      "Data produced by program",
-      "Code logic",
-      "A loop"
-    ],
-    "correct": "Data produced by program"
-  },
-  {
-    "id": "prog_1_18",
-    "difficulty": 1,
-    "prompt": "What is a statement?",
-    "choices": [
-      "A complete instruction",
-      "A variable",
-      "A function",
-      "A comment"
-    ],
-    "correct": "A complete instruction"
-  },
-  {
-    "id": "prog_1_19",
-    "difficulty": 1,
-    "prompt": "What is a program?",
-    "choices": [
-      "A single line",
-      "A set of instructions",
-      "A data type",
-      "A keyword"
-    ],
-    "correct": "A set of instructions"
-  },
-  {
-    "id": "prog_1_20",
-    "difficulty": 1,
-    "prompt": "What is coding?",
-    "choices": [
-      "Running programs",
-      "Writing programs",
-      "Debugging",
-      "Compiling"
-    ],
-    "correct": "Writing programs"
-  },
-  {
-    "id": "prog_1_21",
-    "difficulty": 1,
-    "prompt": "What is a script?",
-    "choices": [
-      "A compiled program",
-      "An interpreted program",
-      "A data file",
-      "A loop"
-    ],
-    "correct": "An interpreted program"
-  },
-  {
-    "id": "prog_1_22",
-    "difficulty": 1,
-    "prompt": "What is an algorithm?",
-    "choices": [
-      "A data structure",
-      "A step-by-step procedure",
-      "A programming language",
-      "A variable"
-    ],
-    "correct": "A step-by-step procedure"
-  },
-  {
-    "id": "prog_1_23",
-    "difficulty": 1,
-    "prompt": "What is a library?",
-    "choices": [
-      "A single function",
-      "A collection of code",
-      "A data type",
-      "A keyword"
-    ],
-    "correct": "A collection of code"
-  },
-  {
-    "id": "prog_1_24",
-    "difficulty": 1,
-    "prompt": "What is a module?",
-    "choices": [
-      "A large program",
-      "A reusable component",
-      "A variable",
-      "A comment"
-    ],
-    "correct": "A reusable component"
-  },
-  {
-    "id": "prog_1_25",
-    "difficulty": 1,
-    "prompt": "What is a file?",
-    "choices": [
-      "A memory location",
-      "A stored data",
-      "A function",
-      "A loop"
-    ],
-    "correct": "A stored data"
-  },
-  {
-    "id": "prog_2_1",
-    "difficulty": 20,
-    "prompt": "What is the output of print(2 + 3)?",
-    "choices": [
-      "5",
-      "23",
-      "2+3",
-      "error"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "prog_2_2",
-    "difficulty": 20,
-    "prompt": "What is a for loop used for?",
-    "choices": [
-      "Conditional execution",
-      "Repeated execution",
-      "Function definition",
-      "Variable declaration"
-    ],
-    "correct": "Repeated execution"
-  },
-  {
-    "id": "prog_2_3",
-    "difficulty": 20,
-    "prompt": "What is an if statement?",
-    "choices": [
-      "A loop",
-      "A condition",
-      "A function",
-      "A variable"
-    ],
-    "correct": "A condition"
-  },
-  {
-    "id": "prog_2_4",
-    "difficulty": 20,
-    "prompt": "What is concatenation?",
-    "choices": [
-      "Adding numbers",
-      "Joining strings",
-      "Defining functions",
-      "Creating loops"
-    ],
-    "correct": "Joining strings"
-  },
-  {
-    "id": "prog_2_5",
-    "difficulty": 20,
-    "prompt": "What is a list in Python?",
-    "choices": [
-      "A number",
-      "A mutable sequence",
-      "A string",
-      "A boolean"
-    ],
-    "correct": "A mutable sequence"
-  },
-  {
-    "id": "prog_2_6",
-    "difficulty": 20,
-    "prompt": "What does len() do?",
-    "choices": [
-      "Adds elements",
-      "Returns length",
-      "Sorts list",
-      "Reverses list"
-    ],
-    "correct": "Returns length"
-  },
-  {
-    "id": "prog_2_7",
-    "difficulty": 20,
-    "prompt": "What is a tuple?",
-    "choices": [
-      "Mutable",
-      "Immutable sequence",
-      "A function",
-      "A loop"
-    ],
-    "correct": "Immutable sequence"
-  },
-  {
-    "id": "prog_2_8",
-    "difficulty": 20,
-    "prompt": "What is indexing?",
-    "choices": [
-      "Accessing elements",
-      "Adding elements",
-      "Removing elements",
-      "Sorting elements"
-    ],
-    "correct": "Accessing elements"
-  },
-  {
-    "id": "prog_2_9",
-    "difficulty": 20,
-    "prompt": "What is a dictionary?",
-    "choices": [
-      "A list",
-      "Key-value pairs",
-      "A string",
-      "A number"
-    ],
-    "correct": "Key-value pairs"
-  },
-  {
-    "id": "prog_2_10",
-    "difficulty": 20,
-    "prompt": "What is a method?",
-    "choices": [
-      "A variable",
-      "A function in a class",
-      "A loop",
-      "A comment"
-    ],
-    "correct": "A function in a class"
-  },
-  {
-    "id": "prog_2_11",
-    "difficulty": 20,
-    "prompt": "What is inheritance?",
-    "choices": [
-      "Copying code",
-      "Deriving from class",
-      "Defining functions",
-      "Creating variables"
-    ],
-    "correct": "Deriving from class"
-  },
-  {
-    "id": "prog_2_12",
-    "difficulty": 20,
-    "prompt": "What is a class?",
-    "choices": [
-      "A function",
-      "A blueprint",
-      "A variable",
-      "A loop"
-    ],
-    "correct": "A blueprint"
-  },
-  {
-    "id": "prog_2_13",
-    "difficulty": 20,
-    "prompt": "What is an object?",
-    "choices": [
-      "A class",
-      "An instance",
-      "A method",
-      "A variable"
-    ],
-    "correct": "An instance"
-  },
-  {
-    "id": "prog_2_14",
-    "difficulty": 20,
-    "prompt": "What is encapsulation?",
-    "choices": [
-      "Hiding data",
-      "Sharing data",
-      "Defining functions",
-      "Creating loops"
-    ],
-    "correct": "Hiding data"
-  },
-  {
-    "id": "prog_2_15",
-    "difficulty": 20,
-    "prompt": "What is polymorphism?",
-    "choices": [
-      "One form",
-      "Many forms",
-      "A class",
-      "A method"
-    ],
-    "correct": "Many forms"
-  },
-  {
-    "id": "prog_2_16",
-    "difficulty": 20,
-    "prompt": "What is a constructor?",
-    "choices": [
-      "A destructor",
-      "Initializes object",
-      "A method",
-      "A variable"
-    ],
-    "correct": "Initializes object"
-  },
-  {
-    "id": "prog_2_17",
-    "difficulty": 20,
-    "prompt": "What is a parameter?",
-    "choices": [
-      "A return value",
-      "Input to function",
-      "A loop",
-      "A comment"
-    ],
-    "correct": "Input to function"
-  },
-  {
-    "id": "prog_2_18",
-    "difficulty": 20,
-    "prompt": "What is a return statement?",
-    "choices": [
-      "Ends function",
-      "Starts function",
-      "Defines function",
-      "Calls function"
-    ],
-    "correct": "Ends function"
-  },
-  {
-    "id": "prog_2_19",
-    "difficulty": 20,
-    "prompt": "What is recursion?",
-    "choices": [
-      "A loop",
-      "Function calls itself",
-      "A class",
-      "A variable"
-    ],
-    "correct": "Function calls itself"
-  },
-  {
-    "id": "prog_2_20",
-    "difficulty": 20,
-    "prompt": "What is a stack?",
-    "choices": [
-      "LIFO structure",
-      "FIFO structure",
-      "A list",
-      "A dictionary"
-    ],
-    "correct": "LIFO structure"
-  },
-  {
-    "id": "prog_2_21",
-    "difficulty": 20,
-    "prompt": "What is a queue?",
-    "choices": [
-      "LIFO",
-      "FIFO structure",
-      "A stack",
-      "A heap"
-    ],
-    "correct": "FIFO structure"
-  },
-  {
-    "id": "prog_2_22",
-    "difficulty": 20,
-    "prompt": "What is sorting?",
-    "choices": [
-      "Searching",
-      "Arranging in order",
-      "Adding elements",
-      "Removing elements"
-    ],
-    "correct": "Arranging in order"
-  },
-  {
-    "id": "prog_2_23",
-    "difficulty": 20,
-    "prompt": "What is searching?",
-    "choices": [
-      "Sorting",
-      "Finding element",
-      "Adding element",
-      "Removing element"
-    ],
-    "correct": "Finding element"
-  },
-  {
-    "id": "prog_2_24",
-    "difficulty": 20,
-    "prompt": "What is binary search?",
-    "choices": [
-      "Linear search",
-      "Divide and conquer",
-      "Bubble sort",
-      "Quick sort"
-    ],
-    "correct": "Divide and conquer"
-  },
-  {
-    "id": "prog_2_25",
-    "difficulty": 20,
-    "prompt": "What is bubble sort?",
-    "choices": [
-      "Binary search",
-      "Swapping adjacent",
-      "Quick sort",
-      "Merge sort"
-    ],
-    "correct": "Swapping adjacent"
-  },
-  {
-    "id": "prog_3_1",
-    "difficulty": 10,
-    "prompt": "What is the time complexity of bubble sort?",
-    "choices": [
-      "O(n)",
-      "O(n log n)",
-      "O(n²)",
-      "O(log n)"
-    ],
-    "correct": "O(n²)"
-  },
-  {
-    "id": "prog_3_2",
-    "difficulty": 10,
-    "prompt": "What is a linked list?",
-    "choices": [
-      "Array",
-      "Nodes with pointers",
-      "Stack",
-      "Queue"
-    ],
-    "correct": "Nodes with pointers"
-  },
-  {
-    "id": "prog_3_3",
-    "difficulty": 10,
-    "prompt": "What is a binary tree?",
-    "choices": [
-      "Linear structure",
-      "Hierarchical structure",
-      "Circular",
-      "Sorted list"
-    ],
-    "correct": "Hierarchical structure"
-  },
-  {
-    "id": "prog_3_4",
-    "difficulty": 10,
-    "prompt": "What is DFS?",
-    "choices": [
-      "Breadth first",
-      "Depth first search",
-      "Binary search",
-      "Linear search"
-    ],
-    "correct": "Depth first search"
-  },
-  {
-    "id": "prog_3_5",
-    "difficulty": 10,
-    "prompt": "What is BFS?",
-    "choices": [
-      "Depth first",
-      "Breadth first search",
-      "Quick sort",
-      "Merge sort"
-    ],
-    "correct": "Breadth first search"
-  },
-  {
-    "id": "prog_3_6",
-    "difficulty": 10,
-    "prompt": "What is a hash table?",
-    "choices": [
-      "Array",
-      "Key-value with hash",
-      "Linked list",
-      "Tree"
-    ],
-    "correct": "Key-value with hash"
-  },
-  {
-    "id": "prog_3_7",
-    "difficulty": 10,
-    "prompt": "What is dynamic programming?",
-    "choices": [
-      "Recursion",
-      "Memoization",
-      "Sorting",
-      "Searching"
-    ],
-    "correct": "Memoization"
-  },
-  {
-    "id": "prog_3_8",
-    "difficulty": 10,
-    "prompt": "What is greedy algorithm?",
-    "choices": [
-      "Optimal at each step",
-      "Backtracking",
-      "Divide and conquer",
-      "Brute force"
-    ],
-    "correct": "Optimal at each step"
-  },
-  {
-    "id": "prog_3_9",
-    "difficulty": 10,
-    "prompt": "What is a graph?",
-    "choices": [
-      "Tree",
-      "Nodes and edges",
-      "List",
-      "Array"
-    ],
-    "correct": "Nodes and edges"
-  },
-  {
-    "id": "prog_3_10",
-    "difficulty": 10,
-    "prompt": "What is Dijkstra's algorithm?",
-    "choices": [
-      "Shortest path",
-      "Sorting",
-      "Searching",
-      "Traversal"
-    ],
-    "correct": "Shortest path"
-  },
-  {
-    "id": "prog_3_11",
-    "difficulty": 10,
-    "prompt": "What is a heap?",
-    "choices": [
-      "Stack",
-      "Priority queue",
-      "Queue",
-      "List"
-    ],
-    "correct": "Priority queue"
-  },
-  {
-    "id": "prog_3_12",
-    "difficulty": 10,
-    "prompt": "What is merge sort?",
-    "choices": [
-      "Bubble sort",
-      "Divide and conquer",
-      "Insertion sort",
-      "Selection sort"
-    ],
-    "correct": "Divide and conquer"
-  },
-  {
-    "id": "prog_3_13",
-    "difficulty": 10,
-    "prompt": "What is quick sort?",
-    "choices": [
-      "Merge sort",
-      "Pivot based",
-      "Bubble sort",
-      "Insertion sort"
-    ],
-    "correct": "Pivot based"
-  },
-  {
-    "id": "prog_3_14",
-    "difficulty": 10,
-    "prompt": "What is a trie?",
-    "choices": [
-      "Tree for strings",
-      "Hash table",
-      "Linked list",
-      "Array"
-    ],
-    "correct": "Tree for strings"
-  },
-  {
-    "id": "prog_3_15",
-    "difficulty": 10,
-    "prompt": "What is backtracking?",
-    "choices": [
-      "Greedy",
-      "Trial and error",
-      "Dynamic",
-      "Divide"
-    ],
-    "correct": "Trial and error"
-  },
-  {
-    "id": "prog_3_16",
-    "difficulty": 10,
-    "prompt": "What is a BST?",
-    "choices": [
-      "Binary search tree",
-      "Binary tree",
-      "AVL tree",
-      "Red-black tree"
-    ],
-    "correct": "Binary search tree"
-  },
-  {
-    "id": "prog_3_17",
-    "difficulty": 10,
-    "prompt": "What is an AVL tree?",
-    "choices": [
-      "Self-balancing BST",
-      "Binary tree",
-      "Trie",
-      "Heap"
-    ],
-    "correct": "Self-balancing BST"
-  },
-  {
-    "id": "prog_3_18",
-    "difficulty": 10,
-    "prompt": "What is a red-black tree?",
-    "choices": [
-      "AVL tree",
-      "Self-balancing BST",
-      "Trie",
-      "Graph"
-    ],
-    "correct": "Self-balancing BST"
-  },
-  {
-    "id": "prog_3_19",
-    "difficulty": 10,
-    "prompt": "What is a B-tree?",
-    "choices": [
-      "Binary tree",
-      "Multi-way tree",
-      "Trie",
-      "Heap"
-    ],
-    "correct": "Multi-way tree"
-  },
-  {
-    "id": "prog_3_20",
-    "difficulty": 10,
-    "prompt": "What is a segment tree?",
-    "choices": [
-      "For range queries",
-      "For sorting",
-      "For searching",
-      "For traversal"
-    ],
-    "correct": "For range queries"
-  },
-  {
-    "id": "prog_3_21",
-    "difficulty": 10,
-    "prompt": "What is a fenwick tree?",
-    "choices": [
-      "Segment tree",
-      "For prefix sums",
-      "For sorting",
-      "For graphs"
-    ],
-    "correct": "For prefix sums"
-  },
-  {
-    "id": "prog_3_22",
-    "difficulty": 10,
-    "prompt": "What is a bloom filter?",
-    "choices": [
-      "Hash table",
-      "Probabilistic set",
-      "Trie",
-      "Graph"
-    ],
-    "correct": "Probabilistic set"
-  },
-  {
-    "id": "prog_3_23",
-    "difficulty": 10,
-    "prompt": "What is a skip list?",
-    "choices": [
-      "Linked list with levels",
-      "Array",
-      "Tree",
-      "Graph"
-    ],
-    "correct": "Linked list with levels"
-  },
-  {
-    "id": "prog_3_24",
-    "difficulty": 10,
-    "prompt": "What is a LRU cache?",
-    "choices": [
-      "FIFO",
-      "Least recently used",
-      "MRU",
-      "Random"
-    ],
-    "correct": "Least recently used"
-  },
-  {
-    "id": "prog_3_25",
-    "difficulty": 10,
-    "prompt": "What is a database index?",
-    "choices": [
-      "Data storage",
-      "Fast lookup",
-      "Query execution",
-      "Data backup"
-    ],
-    "correct": "Fast lookup"
-  },
-  {
-    "id": "prog_4_1",
-    "difficulty": 15,
-    "prompt": "What is the time complexity of quick sort?",
-    "choices": [
-      "O(n²)",
-      "O(n log n)",
-      "O(n)",
-      "O(log n)"
-    ],
-    "correct": "O(n log n)"
-  },
-  {
-    "id": "prog_4_2",
-    "difficulty": 15,
-    "prompt": "What is the space complexity of merge sort?",
-    "choices": [
-      "O(1)",
-      "O(n)",
-      "O(n log n)",
-      "O(n²)"
-    ],
-    "correct": "O(n)"
-  },
-  {
-    "id": "prog_4_3",
-    "difficulty": 15,
-    "prompt": "What is the Knuth-Morris-Pratt algorithm?",
-    "choices": [
-      "Sorting",
-      "String matching",
-      "Graph traversal",
-      "Dynamic programming"
-    ],
-    "correct": "String matching"
-  },
-  {
-    "id": "prog_4_4",
-    "difficulty": 15,
-    "prompt": "What is the Floyd-Warshall algorithm?",
-    "choices": [
-      "Shortest path all pairs",
-      "Single source shortest",
-      "MST",
-      "Traversal"
-    ],
-    "correct": "Shortest path all pairs"
-  },
-  {
-    "id": "prog_4_5",
-    "difficulty": 15,
-    "prompt": "What is the Bellman-Ford algorithm?",
-    "choices": [
-      "Negative weights",
-      "Positive weights",
-      "MST",
-      "Traversal"
-    ],
-    "correct": "Negative weights"
-  },
-  {
-    "id": "prog_4_6",
-    "difficulty": 15,
-    "prompt": "What is Kruskal's algorithm?",
-    "choices": [
-      "Shortest path",
-      "MST",
-      "Traversal",
-      "Sorting"
-    ],
-    "correct": "MST"
-  },
-  {
-    "id": "prog_4_7",
-    "difficulty": 15,
-    "prompt": "What is Prim's algorithm?",
-    "choices": [
-      "MST",
-      "Shortest path",
-      "Traversal",
-      "Sorting"
-    ],
-    "correct": "MST"
-  },
-  {
-    "id": "prog_4_8",
-    "difficulty": 15,
-    "prompt": "What is the A* algorithm?",
-    "choices": [
-      "Heuristic search",
-      "Breadth first",
-      "Depth first",
-      "Greedy"
-    ],
-    "correct": "Heuristic search"
-  },
-  {
-    "id": "prog_4_9",
-    "difficulty": 15,
-    "prompt": "What is the Rabin-Karp algorithm?",
-    "choices": [
-      "String matching",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "String matching"
-  },
-  {
-    "id": "prog_4_10",
-    "difficulty": 15,
-    "prompt": "What is the Z-algorithm?",
-    "choices": [
-      "String matching",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "String matching"
-  },
-  {
-    "id": "prog_4_11",
-    "difficulty": 15,
-    "prompt": "What is the longest common subsequence?",
-    "choices": [
-      "Dynamic programming",
-      "Greedy",
-      "Backtracking",
-      "Divide"
-    ],
-    "correct": "Dynamic programming"
-  },
-  {
-    "id": "prog_4_12",
-    "difficulty": 15,
-    "prompt": "What is the knapsack problem?",
-    "choices": [
-      "Dynamic programming",
-      "Greedy",
-      "Backtracking",
-      "Sorting"
-    ],
-    "correct": "Dynamic programming"
-  },
-  {
-    "id": "prog_4_13",
-    "difficulty": 15,
-    "prompt": "What is the traveling salesman problem?",
-    "choices": [
-      "NP-hard",
-      "P",
-      "Easy",
-      "Sorting"
-    ],
-    "correct": "NP-hard"
-  },
-  {
-    "id": "prog_4_14",
-    "difficulty": 15,
-    "prompt": "What is the edit distance?",
-    "choices": [
-      "String similarity",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "String similarity"
-  },
-  {
-    "id": "prog_4_15",
-    "difficulty": 15,
-    "prompt": "What is the convex hull?",
-    "choices": [
-      "Geometry",
-      "Graph",
-      "Dynamic",
-      "Sorting"
-    ],
-    "correct": "Geometry"
-  },
-  {
-    "id": "prog_4_16",
-    "difficulty": 15,
-    "prompt": "What is the Graham scan?",
-    "choices": [
-      "Convex hull",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "Convex hull"
-  },
-  {
-    "id": "prog_4_17",
-    "difficulty": 15,
-    "prompt": "What is the Jarvis march?",
-    "choices": [
-      "Convex hull",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "Convex hull"
-  },
-  {
-    "id": "prog_4_18",
-    "difficulty": 15,
-    "prompt": "What is the closest pair of points?",
-    "choices": [
-      "Divide and conquer",
-      "Greedy",
-      "Dynamic",
-      "Backtracking"
-    ],
-    "correct": "Divide and conquer"
-  },
-  {
-    "id": "prog_4_19",
-    "difficulty": 15,
-    "prompt": "What is the line sweep algorithm?",
-    "choices": [
-      "Geometry",
-      "Graph",
-      "Dynamic",
-      "Sorting"
-    ],
-    "correct": "Geometry"
-  },
-  {
-    "id": "prog_4_20",
-    "difficulty": 15,
-    "prompt": "What is the union-find structure?",
-    "choices": [
-      "Disjoint sets",
-      "Graph",
-      "Dynamic",
-      "Sorting"
-    ],
-    "correct": "Disjoint sets"
-  },
-  {
-    "id": "prog_4_21",
-    "difficulty": 15,
-    "prompt": "What is the time complexity of quick sort?",
-    "choices": [
-      "O(n²)",
-      "O(n log n)",
-      "O(n)",
-      "O(log n)"
-    ],
-    "correct": "O(n log n)"
-  },
-  {
-    "id": "prog_4_22",
-    "difficulty": 15,
-    "prompt": "What is the space complexity of merge sort?",
-    "choices": [
-      "O(1)",
-      "O(n)",
-      "O(n log n)",
-      "O(n²)"
-    ],
-    "correct": "O(n)"
-  },
-  {
-    "id": "prog_4_23",
-    "difficulty": 15,
-    "prompt": "What is the Knuth-Morris-Pratt algorithm?",
-    "choices": [
-      "Sorting",
-      "String matching",
-      "Graph traversal",
-      "Dynamic programming"
-    ],
-    "correct": "String matching"
-  },
-  {
-    "id": "prog_4_24",
-    "difficulty": 15,
-    "prompt": "What is the Floyd-Warshall algorithm?",
-    "choices": [
-      "Shortest path all pairs",
-      "Single source shortest",
-      "MST",
-      "Traversal"
-    ],
-    "correct": "Shortest path all pairs"
-  },
-  {
-    "id": "prog_4_25",
-    "difficulty": 15,
-    "prompt": "What is the Bellman-Ford algorithm?",
-    "choices": [
-      "Negative weights",
-      "Positive weights",
-      "MST",
-      "Traversal"
-    ],
-    "correct": "Negative weights"
-  },
-  {
-    "id": "prog_5_1",
-    "difficulty": 20,
-    "prompt": "What is Kruskal's algorithm?",
-    "choices": [
-      "Shortest path",
-      "MST",
-      "Traversal",
-      "Sorting"
-    ],
-    "correct": "MST"
-  },
-  {
-    "id": "prog_5_2",
-    "difficulty": 20,
-    "prompt": "What is Prim's algorithm?",
-    "choices": [
-      "MST",
-      "Shortest path",
-      "Traversal",
-      "Sorting"
-    ],
-    "correct": "MST"
-  },
-  {
-    "id": "prog_5_3",
-    "difficulty": 20,
-    "prompt": "What is the A* algorithm?",
-    "choices": [
-      "Heuristic search",
-      "Breadth first",
-      "Depth first",
-      "Greedy"
-    ],
-    "correct": "Heuristic search"
-  },
-  {
-    "id": "prog_5_4",
-    "difficulty": 20,
-    "prompt": "What is the Rabin-Karp algorithm?",
-    "choices": [
-      "String matching",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "String matching"
-  },
-  {
-    "id": "prog_5_5",
-    "difficulty": 20,
-    "prompt": "What is the Z-algorithm?",
-    "choices": [
-      "String matching",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "String matching"
-  },
-  {
-    "id": "prog_5_6",
-    "difficulty": 20,
-    "prompt": "What is the longest common subsequence?",
-    "choices": [
-      "Dynamic programming",
-      "Greedy",
-      "Backtracking",
-      "Divide"
-    ],
-    "correct": "Dynamic programming"
-  },
-  {
-    "id": "prog_5_7",
-    "difficulty": 20,
-    "prompt": "What is the knapsack problem?",
-    "choices": [
-      "Dynamic programming",
-      "Greedy",
-      "Backtracking",
-      "Sorting"
-    ],
-    "correct": "Dynamic programming"
-  },
-  {
-    "id": "prog_5_8",
-    "difficulty": 20,
-    "prompt": "What is the traveling salesman problem?",
-    "choices": [
-      "NP-hard",
-      "P",
-      "Easy",
-      "Sorting"
-    ],
-    "correct": "NP-hard"
-  },
-  {
-    "id": "prog_5_9",
-    "difficulty": 20,
-    "prompt": "What is the edit distance?",
-    "choices": [
-      "String similarity",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "String similarity"
-  },
-  {
-    "id": "prog_5_10",
-    "difficulty": 20,
-    "prompt": "What is the convex hull?",
-    "choices": [
-      "Geometry",
-      "Graph",
-      "Dynamic",
-      "Sorting"
-    ],
-    "correct": "Geometry"
-  },
-  {
-    "id": "prog_5_11",
-    "difficulty": 20,
-    "prompt": "What is the Graham scan?",
-    "choices": [
-      "Convex hull",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "Convex hull"
-  },
-  {
-    "id": "prog_5_12",
-    "difficulty": 20,
-    "prompt": "What is the Jarvis march?",
-    "choices": [
-      "Convex hull",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "Convex hull"
-  },
-  {
-    "id": "prog_5_13",
-    "difficulty": 20,
-    "prompt": "What is the closest pair of points?",
-    "choices": [
-      "Divide and conquer",
-      "Greedy",
-      "Dynamic",
-      "Backtracking"
-    ],
-    "correct": "Divide and conquer"
-  },
-  {
-    "id": "prog_5_14",
-    "difficulty": 20,
-    "prompt": "What is the line sweep algorithm?",
-    "choices": [
-      "Geometry",
-      "Graph",
-      "Dynamic",
-      "Sorting"
-    ],
-    "correct": "Geometry"
-  },
-  {
-    "id": "prog_5_15",
-    "difficulty": 20,
-    "prompt": "What is the union-find structure?",
-    "choices": [
-      "Disjoint sets",
-      "Graph",
-      "Dynamic",
-      "Sorting"
-    ],
-    "correct": "Disjoint sets"
-  },
-  {
-    "id": "prog_5_16",
-    "difficulty": 20,
-    "prompt": "What is the time complexity of quick sort?",
-    "choices": [
-      "O(n²)",
-      "O(n log n)",
-      "O(n)",
-      "O(log n)"
-    ],
-    "correct": "O(n log n)"
-  },
-  {
-    "id": "prog_5_17",
-    "difficulty": 20,
-    "prompt": "What is the space complexity of merge sort?",
-    "choices": [
-      "O(1)",
-      "O(n)",
-      "O(n log n)",
-      "O(n²)"
-    ],
-    "correct": "O(n)"
-  },
-  {
-    "id": "prog_5_18",
-    "difficulty": 20,
-    "prompt": "What is the Knuth-Morris-Pratt algorithm?",
-    "choices": [
-      "Sorting",
-      "String matching",
-      "Graph traversal",
-      "Dynamic programming"
-    ],
-    "correct": "String matching"
-  },
-  {
-    "id": "prog_5_19",
-    "difficulty": 20,
-    "prompt": "What is the Floyd-Warshall algorithm?",
-    "choices": [
-      "Shortest path all pairs",
-      "Single source shortest",
-      "MST",
-      "Traversal"
-    ],
-    "correct": "Shortest path all pairs"
-  },
-  {
-    "id": "prog_5_20",
-    "difficulty": 20,
-    "prompt": "What is the Bellman-Ford algorithm?",
-    "choices": [
-      "Negative weights",
-      "Positive weights",
-      "MST",
-      "Traversal"
-    ],
-    "correct": "Negative weights"
-  },
-  {
-    "id": "prog_5_21",
-    "difficulty": 20,
-    "prompt": "What is Kruskal's algorithm?",
-    "choices": [
-      "Shortest path",
-      "MST",
-      "Traversal",
-      "Sorting"
-    ],
-    "correct": "MST"
-  },
-  {
-    "id": "prog_5_22",
-    "difficulty": 20,
-    "prompt": "What is Prim's algorithm?",
-    "choices": [
-      "MST",
-      "Shortest path",
-      "Traversal",
-      "Sorting"
-    ],
-    "correct": "MST"
-  },
-  {
-    "id": "prog_5_23",
-    "difficulty": 20,
-    "prompt": "What is the A* algorithm?",
-    "choices": [
-      "Heuristic search",
-      "Breadth first",
-      "Depth first",
-      "Greedy"
-    ],
-    "correct": "Heuristic search"
-  },
-  {
-    "id": "prog_5_24",
-    "difficulty": 20,
-    "prompt": "What is the Rabin-Karp algorithm?",
-    "choices": [
-      "String matching",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "String matching"
-  },
-  {
-    "id": "prog_5_25",
-    "difficulty": 20,
-    "prompt": "What is the Z-algorithm?",
-    "choices": [
-      "String matching",
-      "Sorting",
-      "Graph",
-      "Dynamic"
-    ],
-    "correct": "String matching"
-  },
-  {
-    "id": "english_1_1",
-    "difficulty": 1,
-    "prompt": "What is the synonym of 'happy'?",
-    "choices": [
-      "Sad",
-      "Joyful",
-      "Angry",
-      "Tired"
-    ],
-    "correct": "Joyful"
-  },
-  {
-    "id": "english_1_2",
-    "difficulty": 1,
-    "prompt": "What is the antonym of 'big'?",
-    "choices": [
-      "Large",
-      "Small",
-      "Tall",
-      "Wide"
-    ],
-    "correct": "Small"
-  },
-  {
-    "id": "english_1_3",
-    "difficulty": 1,
-    "prompt": "What is the plural of 'cat'?",
-    "choices": [
-      "Cats",
-      "Cat's",
-      "Cates",
-      "Caties"
-    ],
-    "correct": "Cats"
-  },
-  {
-    "id": "english_1_4",
-    "difficulty": 1,
-    "prompt": "What is the past tense of 'run'?",
-    "choices": [
-      "Runs",
-      "Running",
-      "Ran",
-      "Runned"
-    ],
-    "correct": "Ran"
-  },
-  {
-    "id": "english_1_5",
-    "difficulty": 1,
-    "prompt": "What is a noun?",
-    "choices": [
-      "A describing word",
-      "A person, place, or thing",
-      "An action word",
-      "A joining word"
-    ],
-    "correct": "A person, place, or thing"
-  },
-  {
-    "id": "english_1_6",
-    "difficulty": 1,
-    "prompt": "What is a verb?",
-    "choices": [
-      "A describing word",
-      "A person, place, or thing",
-      "An action word",
-      "A joining word"
-    ],
-    "correct": "An action word"
-  },
-  {
-    "id": "english_1_7",
-    "difficulty": 1,
-    "prompt": "What is an adjective?",
-    "choices": [
-      "A describing word",
-      "A person, place, or thing",
-      "An action word",
-      "A joining word"
-    ],
-    "correct": "A describing word"
-  },
-  {
-    "id": "english_1_8",
-    "difficulty": 1,
-    "prompt": "What is the capital of France?",
-    "choices": [
+    "id": "q_21",
+    "difficulty": 5,
+    "prompt": "Capital of France?",
+    "choices": [
+      "Paris",
       "London",
       "Berlin",
-      "Paris",
       "Rome"
     ],
     "correct": "Paris"
   },
   {
-    "id": "english_1_9",
-    "difficulty": 1,
-    "prompt": "What is 2 + 2?",
+    "id": "q_22",
+    "difficulty": 5,
+    "prompt": "2 + 7 = ?",
     "choices": [
-      "3",
-      "4",
       "5",
-      "6"
-    ],
-    "correct": "4"
-  },
-  {
-    "id": "english_1_10",
-    "difficulty": 1,
-    "prompt": "What color is the sky on a clear day?",
-    "choices": [
-      "Green",
-      "Blue",
-      "Red",
-      "Yellow"
-    ],
-    "correct": "Blue"
-  },
-  {
-    "id": "english_1_11",
-    "difficulty": 1,
-    "prompt": "What is the synonym of 'fast'?",
-    "choices": [
-      "Slow",
-      "Quick",
-      "Heavy",
-      "Light"
-    ],
-    "correct": "Quick"
-  },
-  {
-    "id": "english_1_12",
-    "difficulty": 1,
-    "prompt": "What is the antonym of 'hot'?",
-    "choices": [
-      "Warm",
-      "Cold",
-      "Wet",
-      "Dry"
-    ],
-    "correct": "Cold"
-  },
-  {
-    "id": "english_1_13",
-    "difficulty": 1,
-    "prompt": "What is the plural of 'dog'?",
-    "choices": [
-      "Dogs",
-      "Dog's",
-      "Doges",
-      "Dogies"
-    ],
-    "correct": "Dogs"
-  },
-  {
-    "id": "english_1_14",
-    "difficulty": 1,
-    "prompt": "What is the past tense of 'eat'?",
-    "choices": [
-      "Eats",
-      "Eating",
-      "Ate",
-      "Eated"
-    ],
-    "correct": "Ate"
-  },
-  {
-    "id": "english_1_15",
-    "difficulty": 1,
-    "prompt": "What is a pronoun?",
-    "choices": [
-      "A describing word",
-      "A person, place, or thing",
-      "Replaces a noun",
-      "An action word"
-    ],
-    "correct": "Replaces a noun"
-  },
-  {
-    "id": "english_1_16",
-    "difficulty": 1,
-    "prompt": "What is a preposition?",
-    "choices": [
-      "A describing word",
-      "Shows relationship",
-      "An action word",
-      "A joining word"
-    ],
-    "correct": "Shows relationship"
-  },
-  {
-    "id": "english_1_17",
-    "difficulty": 1,
-    "prompt": "What is a conjunction?",
-    "choices": [
-      "A describing word",
-      "A person, place, or thing",
-      "An action word",
-      "Joins words or clauses"
-    ],
-    "correct": "Joins words or clauses"
-  },
-  {
-    "id": "english_1_18",
-    "difficulty": 1,
-    "prompt": "What is the capital of the United States?",
-    "choices": [
-      "New York",
-      "Los Angeles",
-      "Washington D.C.",
-      "Chicago"
-    ],
-    "correct": "Washington D.C."
-  },
-  {
-    "id": "english_1_19",
-    "difficulty": 1,
-    "prompt": "What is 5 + 3?",
-    "choices": [
-      "7",
       "8",
-      "9",
-      "6"
-    ],
-    "correct": "8"
-  },
-  {
-    "id": "english_1_20",
-    "difficulty": 1,
-    "prompt": "What color are bananas?",
-    "choices": [
-      "Red",
-      "Blue",
-      "Yellow",
-      "Green"
-    ],
-    "correct": "Yellow"
-  },
-  {
-    "id": "english_1_21",
-    "difficulty": 1,
-    "prompt": "What is the synonym of 'small'?",
-    "choices": [
-      "Big",
-      "Tiny",
-      "Tall",
-      "Wide"
-    ],
-    "correct": "Tiny"
-  },
-  {
-    "id": "english_1_22",
-    "difficulty": 1,
-    "prompt": "What is the antonym of 'wet'?",
-    "choices": [
-      "Hot",
-      "Cold",
-      "Dry",
-      "Warm"
-    ],
-    "correct": "Dry"
-  },
-  {
-    "id": "english_1_23",
-    "difficulty": 1,
-    "prompt": "What is the plural of 'book'?",
-    "choices": [
-      "Books",
-      "Book's",
-      "Bookes",
-      "Bookies"
-    ],
-    "correct": "Books"
-  },
-  {
-    "id": "english_1_24",
-    "difficulty": 1,
-    "prompt": "What is the past tense of 'go'?",
-    "choices": [
-      "Goes",
-      "Going",
-      "Went",
-      "Gone"
-    ],
-    "correct": "Went"
-  },
-  {
-    "id": "english_1_25",
-    "difficulty": 1,
-    "prompt": "What is an adverb?",
-    "choices": [
-      "A describing word",
-      "Modifies verbs, adjectives, etc.",
-      "An action word",
-      "A joining word"
-    ],
-    "correct": "Modifies verbs, adjectives, etc."
-  },
-  {
-    "id": "english_2_1",
-    "difficulty": 20,
-    "prompt": "What is the synonym of 'beautiful'?",
-    "choices": [
-      "Ugly",
-      "Gorgeous",
-      "Small",
-      "Fast"
-    ],
-    "correct": "Gorgeous"
-  },
-  {
-    "id": "english_2_2",
-    "difficulty": 20,
-    "prompt": "What is the antonym of 'easy'?",
-    "choices": [
-      "Simple",
-      "Hard",
-      "Quick",
-      "Slow"
-    ],
-    "correct": "Hard"
-  },
-  {
-    "id": "english_2_3",
-    "difficulty": 20,
-    "prompt": "What is the plural of 'child'?",
-    "choices": [
-      "Childs",
-      "Child's",
-      "Children",
-      "Childes"
-    ],
-    "correct": "Children"
-  },
-  {
-    "id": "english_2_4",
-    "difficulty": 20,
-    "prompt": "What is the past tense of 'see'?",
-    "choices": [
-      "Sees",
-      "Seeing",
-      "Saw",
-      "Seed"
-    ],
-    "correct": "Saw"
-  },
-  {
-    "id": "english_2_5",
-    "difficulty": 20,
-    "prompt": "What is a metaphor?",
-    "choices": [
-      "Direct comparison",
-      "Implied comparison",
-      "Rhyming words",
-      "Opposite meanings"
-    ],
-    "correct": "Implied comparison"
-  },
-  {
-    "id": "english_2_6",
-    "difficulty": 20,
-    "prompt": "What is a simile?",
-    "choices": [
-      "Direct comparison using like or as",
-      "Implied comparison",
-      "Rhyming words",
-      "Opposite meanings"
-    ],
-    "correct": "Direct comparison using like or as"
-  },
-  {
-    "id": "english_2_7",
-    "difficulty": 20,
-    "prompt": "What is alliteration?",
-    "choices": [
-      "Repetition of initial consonant sounds",
-      "Repetition of vowel sounds",
-      "Rhyming words",
-      "Opposite meanings"
-    ],
-    "correct": "Repetition of initial consonant sounds"
-  },
-  {
-    "id": "english_2_8",
-    "difficulty": 20,
-    "prompt": "What is the capital of Japan?",
-    "choices": [
-      "Seoul",
-      "Beijing",
-      "Tokyo",
-      "Bangkok"
-    ],
-    "correct": "Tokyo"
-  },
-  {
-    "id": "english_2_9",
-    "difficulty": 20,
-    "prompt": "What is 10 - 4?",
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correct": "6"
-  },
-  {
-    "id": "english_2_10",
-    "difficulty": 20,
-    "prompt": "What is the largest planet in our solar system?",
-    "choices": [
-      "Earth",
-      "Mars",
-      "Jupiter",
-      "Saturn"
-    ],
-    "correct": "Jupiter"
-  },
-  {
-    "id": "english_2_11",
-    "difficulty": 20,
-    "prompt": "What is the synonym of 'intelligent'?",
-    "choices": [
-      "Stupid",
-      "Smart",
-      "Lazy",
-      "Slow"
-    ],
-    "correct": "Smart"
-  },
-  {
-    "id": "english_2_12",
-    "difficulty": 20,
-    "prompt": "What is the antonym of 'rich'?",
-    "choices": [
-      "Wealthy",
-      "Poor",
-      "Happy",
-      "Sad"
-    ],
-    "correct": "Poor"
-  },
-  {
-    "id": "english_2_13",
-    "difficulty": 20,
-    "prompt": "What is the plural of 'mouse'?",
-    "choices": [
-      "Mouses",
-      "Mouse's",
-      "Mice",
-      "Mouses"
-    ],
-    "correct": "Mice"
-  },
-  {
-    "id": "english_2_14",
-    "difficulty": 20,
-    "prompt": "What is the past tense of 'write'?",
-    "choices": [
-      "Writes",
-      "Writing",
-      "Wrote",
-      "Writed"
-    ],
-    "correct": "Wrote"
-  },
-  {
-    "id": "english_2_15",
-    "difficulty": 20,
-    "prompt": "What is personification?",
-    "choices": [
-      "Giving human qualities to non-human things",
-      "Direct comparison",
-      "Rhyming words",
-      "Opposite meanings"
-    ],
-    "correct": "Giving human qualities to non-human things"
-  },
-  {
-    "id": "english_2_16",
-    "difficulty": 20,
-    "prompt": "What is irony?",
-    "choices": [
-      "Direct statement",
-      "Opposite of what is expected",
-      "Rhyming words",
-      "Similar meanings"
-    ],
-    "correct": "Opposite of what is expected"
-  },
-  {
-    "id": "english_2_17",
-    "difficulty": 20,
-    "prompt": "What is hyperbole?",
-    "choices": [
-      "Understatement",
-      "Exaggeration for effect",
-      "Direct comparison",
-      "Rhyming words"
-    ],
-    "correct": "Exaggeration for effect"
-  },
-  {
-    "id": "english_2_18",
-    "difficulty": 20,
-    "prompt": "What is the capital of Australia?",
-    "choices": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Perth"
-    ],
-    "correct": "Canberra"
-  },
-  {
-    "id": "english_2_19",
-    "difficulty": 20,
-    "prompt": "What is 7 * 3?",
-    "choices": [
-      "20",
-      "21",
-      "22",
-      "23"
-    ],
-    "correct": "21"
-  },
-  {
-    "id": "english_2_20",
-    "difficulty": 20,
-    "prompt": "What is the chemical symbol for water?",
-    "choices": [
-      "H2O",
-      "CO2",
-      "O2",
-      "NaCl"
-    ],
-    "correct": "H2O"
-  },
-  {
-    "id": "english_2_21",
-    "difficulty": 20,
-    "prompt": "What is the synonym of 'brave'?",
-    "choices": [
-      "Cowardly",
-      "Courageous",
-      "Lazy",
-      "Slow"
-    ],
-    "correct": "Courageous"
-  },
-  {
-    "id": "english_2_22",
-    "difficulty": 20,
-    "prompt": "What is the antonym of 'strong'?",
-    "choices": [
-      "Powerful",
-      "Weak",
-      "Fast",
-      "Slow"
-    ],
-    "correct": "Weak"
-  },
-  {
-    "id": "english_2_23",
-    "difficulty": 20,
-    "prompt": "What is the plural of 'tooth'?",
-    "choices": [
-      "Tooths",
-      "Tooth's",
-      "Teeth",
-      "Toothes"
-    ],
-    "correct": "Teeth"
-  },
-  {
-    "id": "english_2_24",
-    "difficulty": 20,
-    "prompt": "What is the past tense of 'fly'?",
-    "choices": [
-      "Flies",
-      "Flying",
-      "Flew",
-      "Flyed"
-    ],
-    "correct": "Flew"
-  },
-  {
-    "id": "english_2_25",
-    "difficulty": 20,
-    "prompt": "What is onomatopoeia?",
-    "choices": [
-      "Words that imitate sounds",
-      "Rhyming words",
-      "Opposite meanings",
-      "Direct comparisons"
-    ],
-    "correct": "Words that imitate sounds"
-  },
-  {
-    "id": "english_3_1",
-    "difficulty": 10,
-    "prompt": "What is the synonym of 'eloquent'?",
-    "choices": [
-      "Silent",
-      "Articulate",
-      "Quiet",
-      "Shy"
-    ],
-    "correct": "Articulate"
-  },
-  {
-    "id": "english_3_2",
-    "difficulty": 10,
-    "prompt": "What is the antonym of 'benevolent'?",
-    "choices": [
-      "Kind",
-      "Malevolent",
-      "Generous",
-      "Friendly"
-    ],
-    "correct": "Malevolent"
-  },
-  {
-    "id": "english_3_3",
-    "difficulty": 10,
-    "prompt": "What is the plural of 'phenomenon'?",
-    "choices": [
-      "Phenomenons",
-      "Phenomena's",
-      "Phenomena",
-      "Phenomenas"
-    ],
-    "correct": "Phenomena"
-  },
-  {
-    "id": "english_3_4",
-    "difficulty": 10,
-    "prompt": "What is the past tense of 'begin'?",
-    "choices": [
-      "Begins",
-      "Beginning",
-      "Began",
-      "Begun"
-    ],
-    "correct": "Began"
-  },
-  {
-    "id": "english_3_5",
-    "difficulty": 10,
-    "prompt": "What is a paradox?",
-    "choices": [
-      "Clear statement",
-      "Self-contradictory statement",
-      "Rhyming words",
-      "Direct comparison"
-    ],
-    "correct": "Self-contradictory statement"
-  },
-  {
-    "id": "english_3_6",
-    "difficulty": 10,
-    "prompt": "What is foreshadowing?",
-    "choices": [
-      "Hinting at future events",
-      "Describing past events",
-      "Rhyming words",
-      "Direct comparison"
-    ],
-    "correct": "Hinting at future events"
-  },
-  {
-    "id": "english_3_7",
-    "difficulty": 10,
-    "prompt": "What is allegory?",
-    "choices": [
-      "Direct meaning",
-      "Symbolic story",
-      "Rhyming words",
-      "Opposite meanings"
-    ],
-    "correct": "Symbolic story"
-  },
-  {
-    "id": "english_3_8",
-    "difficulty": 10,
-    "prompt": "What is the capital of Brazil?",
-    "choices": [
-      "Rio de Janeiro",
-      "São Paulo",
-      "Brasília",
-      "Salvador"
-    ],
-    "correct": "Brasília"
-  },
-  {
-    "id": "english_3_9",
-    "difficulty": 10,
-    "prompt": "What is 15 / 3?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "english_3_10",
-    "difficulty": 10,
-    "prompt": "What is the speed of light approximately?",
-    "choices": [
-      "300,000 km/s",
-      "150,000 km/s",
-      "500,000 km/s",
-      "1,000,000 km/s"
-    ],
-    "correct": "300,000 km/s"
-  },
-  {
-    "id": "english_3_11",
-    "difficulty": 10,
-    "prompt": "What is the synonym of 'gregarious'?",
-    "choices": [
-      "Shy",
-      "Sociable",
-      "Quiet",
-      "Lonely"
-    ],
-    "correct": "Sociable"
-  },
-  {
-    "id": "english_3_12",
-    "difficulty": 10,
-    "prompt": "What is the antonym of 'ephemeral'?",
-    "choices": [
-      "Temporary",
-      "Eternal",
-      "Short",
-      "Fleeting"
-    ],
-    "correct": "Eternal"
-  },
-  {
-    "id": "english_3_13",
-    "difficulty": 10,
-    "prompt": "What is the plural of 'criterion'?",
-    "choices": [
-      "Criterions",
-      "Criterion's",
-      "Criteria",
-      "Criterias"
-    ],
-    "correct": "Criteria"
-  },
-  {
-    "id": "english_3_14",
-    "difficulty": 10,
-    "prompt": "What is the past tense of 'sing'?",
-    "choices": [
-      "Sings",
-      "Singing",
-      "Sang",
-      "Sung"
-    ],
-    "correct": "Sang"
-  },
-  {
-    "id": "english_3_15",
-    "difficulty": 10,
-    "prompt": "What is satire?",
-    "choices": [
-      "Serious writing",
-      "Humorous criticism",
-      "Direct praise",
-      "Factual reporting"
-    ],
-    "correct": "Humorous criticism"
-  },
-  {
-    "id": "english_3_16",
-    "difficulty": 10,
-    "prompt": "What is juxtaposition?",
-    "choices": [
-      "Placing similar things together",
-      "Placing contrasting things together",
-      "Rhyming words",
-      "Direct comparison"
-    ],
-    "correct": "Placing contrasting things together"
-  },
-  {
-    "id": "english_3_17",
-    "difficulty": 10,
-    "prompt": "What is oxymoron?",
-    "choices": [
-      "Similar meanings",
-      "Contradictory terms together",
-      "Rhyming words",
-      "Direct comparison"
-    ],
-    "correct": "Contradictory terms together"
-  },
-  {
-    "id": "english_3_18",
-    "difficulty": 10,
-    "prompt": "What is the capital of India?",
-    "choices": [
-      "Mumbai",
-      "Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "Delhi"
-  },
-  {
-    "id": "english_3_19",
-    "difficulty": 10,
-    "prompt": "What is 25 * 4?",
-    "choices": [
-      "95",
-      "100",
-      "105",
-      "110"
-    ],
-    "correct": "100"
-  },
-  {
-    "id": "english_3_20",
-    "difficulty": 10,
-    "prompt": "What is the atomic number of carbon?",
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correct": "6"
-  },
-  {
-    "id": "english_3_21",
-    "difficulty": 10,
-    "prompt": "What is the synonym of 'ubiquitous'?",
-    "choices": [
-      "Rare",
-      "Everywhere",
-      "Unique",
-      "Scarce"
-    ],
-    "correct": "Everywhere"
-  },
-  {
-    "id": "english_3_22",
-    "difficulty": 10,
-    "prompt": "What is the antonym of 'prudent'?",
-    "choices": [
-      "Wise",
-      "Reckless",
-      "Careful",
-      "Smart"
-    ],
-    "correct": "Reckless"
-  },
-  {
-    "id": "english_3_23",
-    "difficulty": 10,
-    "prompt": "What is the plural of 'alumnus'?",
-    "choices": [
-      "Alumnuses",
-      "Alumnus's",
-      "Alumni",
-      "Alumnas"
-    ],
-    "correct": "Alumni"
-  },
-  {
-    "id": "english_3_24",
-    "difficulty": 10,
-    "prompt": "What is the past tense of 'ring'?",
-    "choices": [
-      "Rings",
-      "Ringing",
-      "Rang",
-      "Rung"
-    ],
-    "correct": "Rang"
-  },
-  {
-    "id": "english_3_25",
-    "difficulty": 10,
-    "prompt": "What is soliloquy?",
-    "choices": [
-      "Dialogue",
-      "Monologue to oneself",
-      "Group discussion",
-      "Written letter"
-    ],
-    "correct": "Monologue to oneself"
-  },
-  {
-    "id": "english_4_1",
-    "difficulty": 15,
-    "prompt": "What is the synonym of 'perspicacious'?",
-    "choices": [
-      "Dull",
-      "Shrewd",
-      "Slow",
-      "Stupid"
-    ],
-    "correct": "Shrewd"
-  },
-  {
-    "id": "english_4_2",
-    "difficulty": 15,
-    "prompt": "What is the antonym of 'ebullient'?",
-    "choices": [
-      "Excited",
-      "Enthusiastic",
-      "Subdued",
-      "Energetic"
-    ],
-    "correct": "Subdued"
-  },
-  {
-    "id": "english_4_3",
-    "difficulty": 15,
-    "prompt": "What is the plural of 'syllabus'?",
-    "choices": [
-      "Syllabuses",
-      "Syllabus's",
-      "Syllabi",
-      "Syllabas"
-    ],
-    "correct": "Syllabi"
-  },
-  {
-    "id": "english_4_4",
-    "difficulty": 15,
-    "prompt": "What is the past tense of 'forsake'?",
-    "choices": [
-      "Forsakes",
-      "Forsaking",
-      "Forsook",
-      "Forsaken"
-    ],
-    "correct": "Forsook"
-  },
-  {
-    "id": "english_4_5",
-    "difficulty": 15,
-    "prompt": "What is a zeugma?",
-    "choices": [
-      "Single word with multiple meanings",
-      "Word with same sound different meaning",
-      "Figure of speech with double meaning",
-      "Rhetorical question"
-    ],
-    "correct": "Figure of speech with double meaning"
-  },
-  {
-    "id": "english_4_6",
-    "difficulty": 15,
-    "prompt": "What is chiasmus?",
-    "choices": [
-      "Reversal of grammatical structure",
-      "Repetition of initial sounds",
-      "Direct comparison",
-      "Opposite meanings"
-    ],
-    "correct": "Reversal of grammatical structure"
-  },
-  {
-    "id": "english_4_7",
-    "difficulty": 15,
-    "prompt": "What is anaphora?",
-    "choices": [
-      "Repetition at end",
-      "Repetition at beginning",
-      "Rhyming words",
-      "Opposite meanings"
-    ],
-    "correct": "Repetition at beginning"
-  },
-  {
-    "id": "english_4_8",
-    "difficulty": 15,
-    "prompt": "What is the capital of Russia?",
-    "choices": [
-      "St. Petersburg",
-      "Moscow",
-      "Kiev",
-      "Warsaw"
-    ],
-    "correct": "Moscow"
-  },
-  {
-    "id": "english_4_9",
-    "difficulty": 15,
-    "prompt": "What is 144 / 12?",
-    "choices": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correct": "12"
-  },
-  {
-    "id": "english_4_10",
-    "difficulty": 15,
-    "prompt": "What is the Pythagorean theorem?",
-    "choices": [
-      "a² + b² = c²",
-      "a² - b² = c²",
-      "a² * b² = c²",
-      "a² / b² = c²"
-    ],
-    "correct": "a² + b² = c²"
-  },
-  {
-    "id": "english_4_11",
-    "difficulty": 15,
-    "prompt": "What is the synonym of 'quintessential'?",
-    "choices": [
-      "Ordinary",
-      "Typical",
-      "Perfect example",
-      "Unusual"
-    ],
-    "correct": "Perfect example"
-  },
-  {
-    "id": "english_4_12",
-    "difficulty": 15,
-    "prompt": "What is the antonym of 'sagacious'?",
-    "choices": [
-      "Wise",
-      "Foolish",
-      "Smart",
-      "Intelligent"
-    ],
-    "correct": "Foolish"
-  },
-  {
-    "id": "english_4_13",
-    "difficulty": 15,
-    "prompt": "What is the plural of 'index'?",
-    "choices": [
-      "Indexes",
-      "Indices",
-      "Index's",
-      "Indexs"
-    ],
-    "correct": "Indices"
-  },
-  {
-    "id": "english_4_14",
-    "difficulty": 15,
-    "prompt": "What is the past tense of 'strive'?",
-    "choices": [
-      "Strives",
-      "Striving",
-      "Strove",
-      "Striven"
-    ],
-    "correct": "Strove"
-  },
-  {
-    "id": "english_4_15",
-    "difficulty": 15,
-    "prompt": "What is epistolary?",
-    "choices": [
-      "Poetic form",
-      "Novel in letters",
-      "Dramatic play",
-      "Short story"
-    ],
-    "correct": "Novel in letters"
-  },
-  {
-    "id": "english_4_16",
-    "difficulty": 15,
-    "prompt": "What is bildungsroman?",
-    "choices": [
-      "Coming-of-age story",
-      "Mystery novel",
-      "Science fiction",
-      "Romance novel"
-    ],
-    "correct": "Coming-of-age story"
-  },
-  {
-    "id": "english_4_17",
-    "difficulty": 15,
-    "prompt": "What is stream of consciousness?",
-    "choices": [
-      "Logical thinking",
-      "Unstructured thoughts",
-      "Poetic rhyme",
-      "Direct dialogue"
-    ],
-    "correct": "Unstructured thoughts"
-  },
-  {
-    "id": "english_4_18",
-    "difficulty": 15,
-    "prompt": "What is the capital of South Africa?",
-    "choices": [
-      "Cape Town",
-      "Johannesburg",
-      "Pretoria",
-      "Durban"
-    ],
-    "correct": "Pretoria"
-  },
-  {
-    "id": "english_4_19",
-    "difficulty": 15,
-    "prompt": "What is 17 * 13?",
-    "choices": [
-      "221",
-      "231",
-      "241",
-      "251"
-    ],
-    "correct": "221"
-  },
-  {
-    "id": "english_4_20",
-    "difficulty": 15,
-    "prompt": "What is the derivative of x²?",
-    "choices": [
-      "x",
-      "2x",
-      "3x²",
-      "x²"
-    ],
-    "correct": "2x"
-  },
-  {
-    "id": "english_4_21",
-    "difficulty": 15,
-    "prompt": "What is the synonym of 'pulchritudinous'?",
-    "choices": [
-      "Ugly",
-      "Beautiful",
-      "Small",
-      "Fast"
-    ],
-    "correct": "Beautiful"
-  },
-  {
-    "id": "english_4_22",
-    "difficulty": 15,
-    "prompt": "What is the antonym of 'loquacious'?",
-    "choices": [
-      "Talkative",
-      "Silent",
-      "Loud",
-      "Noisy"
-    ],
-    "correct": "Silent"
-  },
-  {
-    "id": "english_4_23",
-    "difficulty": 15,
-    "prompt": "What is the plural of 'radius'?",
-    "choices": [
-      "Radiuses",
-      "Radii",
-      "Radius's",
-      "Radias"
-    ],
-    "correct": "Radii"
-  },
-  {
-    "id": "english_4_24",
-    "difficulty": 15,
-    "prompt": "What is the past tense of 'thrive'?",
-    "choices": [
-      "Thrives",
-      "Thriving",
-      "Throve",
-      "Thriven"
-    ],
-    "correct": "Throve"
-  },
-  {
-    "id": "english_4_25",
-    "difficulty": 15,
-    "prompt": "What is aphorism?",
-    "choices": [
-      "Long speech",
-      "Short, witty saying",
-      "Poetic verse",
-      "Dramatic monologue"
-    ],
-    "correct": "Short, witty saying"
-  },
-  {
-    "id": "english_5_1",
-    "difficulty": 20,
-    "prompt": "What is the synonym of 'sesquipedalian'?",
-    "choices": [
-      "Short",
-      "Long-winded",
-      "Simple",
-      "Brief"
-    ],
-    "correct": "Long-winded"
-  },
-  {
-    "id": "english_5_2",
-    "difficulty": 20,
-    "prompt": "What is the antonym of 'obfuscate'?",
-    "choices": [
-      "Confuse",
-      "Clarify",
-      "Complicate",
-      "Obscure"
-    ],
-    "correct": "Clarify"
-  },
-  {
-    "id": "english_5_3",
-    "difficulty": 20,
-    "prompt": "What is the plural of 'stratum'?",
-    "choices": [
-      "Stratums",
-      "Strata",
-      "Stratum's",
-      "Stratas"
-    ],
-    "correct": "Strata"
-  },
-  {
-    "id": "english_5_4",
-    "difficulty": 20,
-    "prompt": "What is the past tense of 'cleave'?",
-    "choices": [
-      "Cleaves",
-      "Cleaving",
-      "Clove",
-      "Cleft"
-    ],
-    "correct": "Clove"
-  },
-  {
-    "id": "english_5_5",
-    "difficulty": 20,
-    "prompt": "What is a synecdoche?",
-    "choices": [
-      "Whole for part",
-      "Part for whole",
-      "Both whole for part and part for whole",
-      "Direct comparison"
-    ],
-    "correct": "Both whole for part and part for whole"
-  },
-  {
-    "id": "english_5_6",
-    "difficulty": 20,
-    "prompt": "What is metonymy?",
-    "choices": [
-      "Direct naming",
-      "Substitute name",
-      "Rhyming words",
-      "Opposite meanings"
-    ],
-    "correct": "Substitute name"
-  },
-  {
-    "id": "english_5_7",
-    "difficulty": 20,
-    "prompt": "What is antimetabole?",
-    "choices": [
-      "Repetition of words",
-      "Reversal of words",
-      "Rhyming words",
-      "Opposite meanings"
-    ],
-    "correct": "Reversal of words"
-  },
-  {
-    "id": "english_5_8",
-    "difficulty": 20,
-    "prompt": "What is the capital of Argentina?",
-    "choices": [
-      "Buenos Aires",
-      "Santiago",
-      "Lima",
-      "Bogotá"
-    ],
-    "correct": "Buenos Aires"
-  },
-  {
-    "id": "english_5_9",
-    "difficulty": 20,
-    "prompt": "What is the integral of 2x dx?",
-    "choices": [
-      "x²",
-      "2x²",
-      "x² + C",
-      "2x² + C"
-    ],
-    "correct": "x² + C"
-  },
-  {
-    "id": "english_5_10",
-    "difficulty": 20,
-    "prompt": "What is the speed of light in vacuum?",
-    "choices": [
-      "3 × 10^8 m/s",
-      "3 × 10^6 m/s",
-      "3 × 10^10 m/s",
-      "3 × 10^4 m/s"
-    ],
-    "correct": "3 × 10^8 m/s"
-  },
-  {
-    "id": "english_5_11",
-    "difficulty": 20,
-    "prompt": "What is the synonym of 'ephemeral'?",
-    "choices": [
-      "Eternal",
-      "Transient",
-      "Permanent",
-      "Enduring"
-    ],
-    "correct": "Transient"
-  },
-  {
-    "id": "english_5_12",
-    "difficulty": 20,
-    "prompt": "What is the antonym of 'mellifluous'?",
-    "choices": [
-      "Sweet-sounding",
-      "Harsh",
-      "Melodious",
-      "Pleasant"
-    ],
-    "correct": "Harsh"
-  },
-  {
-    "id": "english_5_13",
-    "difficulty": 20,
-    "prompt": "What is the plural of 'bacterium'?",
-    "choices": [
-      "Bacteriums",
-      "Bacteria",
-      "Bacterium's",
-      "Bacterias"
-    ],
-    "correct": "Bacteria"
-  },
-  {
-    "id": "english_5_14",
-    "difficulty": 20,
-    "prompt": "What is the past tense of 'smite'?",
-    "choices": [
-      "Smites",
-      "Smiting",
-      "Smote",
-      "Smitten"
-    ],
-    "correct": "Smote"
-  },
-  {
-    "id": "english_5_15",
-    "difficulty": 20,
-    "prompt": "What is postmodernism?",
-    "choices": [
-      "Traditional style",
-      "Questioning grand narratives",
-      "Classical literature",
-      "Romantic poetry"
-    ],
-    "correct": "Questioning grand narratives"
-  },
-  {
-    "id": "english_5_16",
-    "difficulty": 20,
-    "prompt": "What is deconstruction?",
-    "choices": [
-      "Building up",
-      "Breaking down binary oppositions",
-      "Creating new structures",
-      "Traditional analysis"
-    ],
-    "correct": "Breaking down binary oppositions"
-  },
-  {
-    "id": "english_5_17",
-    "difficulty": 20,
-    "prompt": "What is intertextuality?",
-    "choices": [
-      "Isolated text",
-      "Text referencing other texts",
-      "Single author work",
-      "Original creation"
-    ],
-    "correct": "Text referencing other texts"
-  },
-  {
-    "id": "english_5_18",
-    "difficulty": 20,
-    "prompt": "What is the capital of New Zealand?",
-    "choices": [
-      "Auckland",
-      "Wellington",
-      "Christchurch",
-      "Dunedin"
-    ],
-    "correct": "Wellington"
-  },
-  {
-    "id": "english_5_19",
-    "difficulty": 20,
-    "prompt": "Solve x² - 5x + 6 = 0",
-    "choices": [
-      "x=2,3",
-      "x=1,6",
-      "x=3,2",
-      "x=6,1"
-    ],
-    "correct": "x=2,3"
-  },
-  {
-    "id": "english_5_20",
-    "difficulty": 20,
-    "prompt": "What is Planck's constant?",
-    "choices": [
-      "6.626 × 10^-34 J s",
-      "1.602 × 10^-19 C",
-      "9.109 × 10^-31 kg",
-      "1.381 × 10^-23 J/K"
-    ],
-    "correct": "6.626 × 10^-34 J s"
-  },
-  {
-    "id": "english_5_21",
-    "difficulty": 20,
-    "prompt": "What is the synonym of 'quixotic'?",
-    "choices": [
-      "Practical",
-      "Impractical",
-      "Realistic",
-      "Sensible"
-    ],
-    "correct": "Impractical"
-  },
-  {
-    "id": "english_5_22",
-    "difficulty": 20,
-    "prompt": "What is the antonym of 'taciturn'?",
-    "choices": [
-      "Silent",
-      "Talkative",
-      "Quiet",
-      "Reserved"
-    ],
-    "correct": "Talkative"
-  },
-  {
-    "id": "english_5_23",
-    "difficulty": 20,
-    "prompt": "What is the plural of 'fungus'?",
-    "choices": [
-      "Funguses",
-      "Fungi",
-      "Fungus's",
-      "Fungas"
-    ],
-    "correct": "Fungi"
-  },
-  {
-    "id": "english_5_24",
-    "difficulty": 20,
-    "prompt": "What is the past tense of 'beget'?",
-    "choices": [
-      "Begets",
-      "Begetting",
-      "Begat",
-      "Begotten"
-    ],
-    "correct": "Begat"
-  },
-  {
-    "id": "english_5_25",
-    "difficulty": 20,
-    "prompt": "What is hermeneutics?",
-    "choices": [
-      "Art of interpretation",
-      "Art of writing",
-      "Art of speaking",
-      "Art of painting"
-    ],
-    "correct": "Art of interpretation"
-  },
-  {
-    "id": "gk_1_1",
-    "difficulty": 1,
-    "prompt": "What is the capital of France?",
-    "choices": [
-      "London",
-      "Berlin",
-      "Paris",
-      "Rome"
-    ],
-    "correct": "Paris"
-  },
-  {
-    "id": "gk_1_2",
-    "difficulty": 1,
-    "prompt": "What is 2 + 2?",
-    "choices": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "correct": "4"
-  },
-  {
-    "id": "gk_1_3",
-    "difficulty": 1,
-    "prompt": "What color is the sky on a clear day?",
-    "choices": [
-      "Green",
-      "Blue",
-      "Red",
-      "Yellow"
-    ],
-    "correct": "Blue"
-  },
-  {
-    "id": "gk_1_4",
-    "difficulty": 1,
-    "prompt": "What is the largest planet in our solar system?",
-    "choices": [
-      "Earth",
-      "Mars",
-      "Jupiter",
-      "Saturn"
-    ],
-    "correct": "Jupiter"
-  },
-  {
-    "id": "gk_1_5",
-    "difficulty": 1,
-    "prompt": "What is the capital of the United States?",
-    "choices": [
-      "New York",
-      "Los Angeles",
-      "Washington D.C.",
-      "Chicago"
-    ],
-    "correct": "Washington D.C."
-  },
-  {
-    "id": "gk_1_6",
-    "difficulty": 1,
-    "prompt": "What is 5 + 3?",
-    "choices": [
-      "7",
-      "8",
-      "9",
-      "6"
-    ],
-    "correct": "8"
-  },
-  {
-    "id": "gk_1_7",
-    "difficulty": 1,
-    "prompt": "What color are bananas?",
-    "choices": [
-      "Red",
-      "Blue",
-      "Yellow",
-      "Green"
-    ],
-    "correct": "Yellow"
-  },
-  {
-    "id": "gk_1_8",
-    "difficulty": 1,
-    "prompt": "What is the capital of Japan?",
-    "choices": [
-      "Seoul",
-      "Beijing",
-      "Tokyo",
-      "Bangkok"
-    ],
-    "correct": "Tokyo"
-  },
-  {
-    "id": "gk_1_9",
-    "difficulty": 1,
-    "prompt": "What is 10 - 4?",
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correct": "6"
-  },
-  {
-    "id": "gk_1_10",
-    "difficulty": 1,
-    "prompt": "What is the chemical symbol for water?",
-    "choices": [
-      "H2O",
-      "CO2",
-      "O2",
-      "NaCl"
-    ],
-    "correct": "H2O"
-  },
-  {
-    "id": "gk_1_11",
-    "difficulty": 1,
-    "prompt": "What is the capital of Australia?",
-    "choices": [
-      "Sydney",
-      "Melbourne",
-      "Canberra",
-      "Perth"
-    ],
-    "correct": "Canberra"
-  },
-  {
-    "id": "gk_1_12",
-    "difficulty": 1,
-    "prompt": "What is 7 * 3?",
-    "choices": [
-      "20",
-      "21",
-      "22",
-      "23"
-    ],
-    "correct": "21"
-  },
-  {
-    "id": "gk_1_13",
-    "difficulty": 1,
-    "prompt": "What is the capital of Brazil?",
-    "choices": [
-      "Rio de Janeiro",
-      "São Paulo",
-      "Brasília",
-      "Salvador"
-    ],
-    "correct": "Brasília"
-  },
-  {
-    "id": "gk_1_14",
-    "difficulty": 1,
-    "prompt": "What is 15 / 3?",
-    "choices": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "correct": "5"
-  },
-  {
-    "id": "gk_1_15",
-    "difficulty": 1,
-    "prompt": "What is the speed of light approximately?",
-    "choices": [
-      "300,000 km/s",
-      "150,000 km/s",
-      "500,000 km/s",
-      "1,000,000 km/s"
-    ],
-    "correct": "300,000 km/s"
-  },
-  {
-    "id": "gk_1_16",
-    "difficulty": 1,
-    "prompt": "What is the capital of India?",
-    "choices": [
-      "Mumbai",
-      "Delhi",
-      "Kolkata",
-      "Chennai"
-    ],
-    "correct": "Delhi"
-  },
-  {
-    "id": "gk_1_17",
-    "difficulty": 1,
-    "prompt": "What is 25 * 4?",
-    "choices": [
-      "95",
-      "100",
-      "105",
-      "110"
-    ],
-    "correct": "100"
-  },
-  {
-    "id": "gk_1_18",
-    "difficulty": 1,
-    "prompt": "What is the atomic number of carbon?",
-    "choices": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "correct": "6"
-  },
-  {
-    "id": "gk_1_19",
-    "difficulty": 1,
-    "prompt": "What is the capital of Russia?",
-    "choices": [
-      "St. Petersburg",
-      "Moscow",
-      "Kiev",
-      "Warsaw"
-    ],
-    "correct": "Moscow"
-  },
-  {
-    "id": "gk_1_20",
-    "difficulty": 1,
-    "prompt": "What is 144 / 12?",
-    "choices": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correct": "12"
-  },
-  {
-    "id": "gk_1_21",
-    "difficulty": 1,
-    "prompt": "What is the Pythagorean theorem?",
-    "choices": [
-      "a² + b² = c²",
-      "a² - b² = c²",
-      "a² * b² = c²",
-      "a² / b² = c²"
-    ],
-    "correct": "a² + b² = c²"
-  },
-  {
-    "id": "gk_1_22",
-    "difficulty": 1,
-    "prompt": "What is the capital of South Africa?",
-    "choices": [
-      "Cape Town",
-      "Johannesburg",
-      "Pretoria",
-      "Durban"
-    ],
-    "correct": "Pretoria"
-  },
-  {
-    "id": "gk_1_23",
-    "difficulty": 1,
-    "prompt": "What is 17 * 13?",
-    "choices": [
-      "221",
-      "231",
-      "241",
-      "251"
-    ],
-    "correct": "221"
-  },
-  {
-    "id": "gk_1_24",
-    "difficulty": 1,
-    "prompt": "What is the derivative of x²?",
-    "choices": [
-      "x",
-      "2x",
-      "3x²",
-      "x²"
-    ],
-    "correct": "2x"
-  },
-  {
-    "id": "gk_1_25",
-    "difficulty": 1,
-    "prompt": "What is the capital of Argentina?",
-    "choices": [
-      "Buenos Aires",
-      "Santiago",
-      "Lima",
-      "Bogotá"
-    ],
-    "correct": "Buenos Aires"
-  },
-  {
-    "id": "gk_2_1",
-    "difficulty": 20,
-    "prompt": "What is the capital of Canada?",
-    "choices": [
-      "Toronto",
-      "Vancouver",
-      "Ottawa",
-      "Montreal"
-    ],
-    "correct": "Ottawa"
-  },
-  {
-    "id": "gk_2_2",
-    "difficulty": 20,
-    "prompt": "What is the square root of 144?",
-    "choices": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "correct": "12"
-  },
-  {
-    "id": "gk_2_3",
-    "difficulty": 20,
-    "prompt": "What is the capital of Germany?",
-    "choices": [
-      "Munich",
-      "Berlin",
-      "Hamburg",
-      "Frankfurt"
-    ],
-    "correct": "Berlin"
-  },
-  {
-    "id": "gk_2_4",
-    "difficulty": 20,
-    "prompt": "What is 100 / 4?",
-    "choices": [
-      "24",
-      "25",
-      "26",
-      "27"
-    ],
-    "correct": "25"
-  },
-  {
-    "id": "gk_2_5",
-    "difficulty": 20,
-    "prompt": "What is the capital of Italy?",
-    "choices": [
-      "Milan",
-      "Rome",
-      "Venice",
-      "Florence"
-    ],
-    "correct": "Rome"
-  },
-  {
-    "id": "gk_2_6",
-    "difficulty": 20,
-    "prompt": "What is 13 * 7?",
-    "choices": [
-      "90",
-      "91",
-      "92",
-      "93"
-    ],
-    "correct": "91"
-  },
-  {
-    "id": "gk_2_7",
-    "difficulty": 20,
-    "prompt": "What is the capital of Spain?",
-    "choices": [
-      "Barcelona",
-      "Madrid",
-      "Seville",
-      "Valencia"
-    ],
-    "correct": "Madrid"
-  },
-  {
-    "id": "gk_2_8",
-    "difficulty": 20,
-    "prompt": "What is the area of a circle with radius 3? (Use π=3.14)",
-    "choices": [
-      "28.26",
-      "28.27",
-      "28.28",
-      "28.29"
-    ],
-    "correct": "28.26"
-  },
-  {
-    "id": "gk_2_9",
-    "difficulty": 20,
-    "prompt": "What is the capital of Mexico?",
-    "choices": [
-      "Guadalajara",
-      "Monterrey",
-      "Mexico City",
-      "Tijuana"
-    ],
-    "correct": "Mexico City"
-  },
-  {
-    "id": "gk_2_10",
-    "difficulty": 20,
-    "prompt": "What is 49 / 7?",
-    "choices": [
-      "6",
-      "7",
-      "8",
+      "13",
       "9"
-    ],
-    "correct": "7"
-  },
-  {
-    "id": "gk_2_11",
-    "difficulty": 20,
-    "prompt": "What is the capital of the United Kingdom?",
-    "choices": [
-      "Manchester",
-      "Birmingham",
-      "London",
-      "Liverpool"
-    ],
-    "correct": "London"
-  },
-  {
-    "id": "gk_2_12",
-    "difficulty": 20,
-    "prompt": "What is 18 * 5?",
-    "choices": [
-      "88",
-      "89",
-      "90",
-      "91"
-    ],
-    "correct": "90"
-  },
-  {
-    "id": "gk_2_13",
-    "difficulty": 20,
-    "prompt": "What is the capital of China?",
-    "choices": [
-      "Shanghai",
-      "Beijing",
-      "Shenzhen",
-      "Guangzhou"
-    ],
-    "correct": "Beijing"
-  },
-  {
-    "id": "gk_2_14",
-    "difficulty": 20,
-    "prompt": "What is the integral of x dx?",
-    "choices": [
-      "x²/2",
-      "x²",
-      "x²/2 + C",
-      "x² + C"
-    ],
-    "correct": "x²/2 + C"
-  },
-  {
-    "id": "gk_2_15",
-    "difficulty": 20,
-    "prompt": "What is the capital of Egypt?",
-    "choices": [
-      "Alexandria",
-      "Cairo",
-      "Luxor",
-      "Giza"
-    ],
-    "correct": "Cairo"
-  },
-  {
-    "id": "gk_2_16",
-    "difficulty": 20,
-    "prompt": "What is 64 / 8?",
-    "choices": [
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "correct": "8"
-  },
-  {
-    "id": "gk_2_17",
-    "difficulty": 20,
-    "prompt": "What is the capital of Turkey?",
-    "choices": [
-      "Istanbul",
-      "Ankara",
-      "Izmir",
-      "Antalya"
-    ],
-    "correct": "Ankara"
-  },
-  {
-    "id": "gk_2_18",
-    "difficulty": 20,
-    "prompt": "What is 22 * 3?",
-    "choices": [
-      "65",
-      "66",
-      "67",
-      "68"
-    ],
-    "correct": "66"
-  },
-  {
-    "id": "gk_2_19",
-    "difficulty": 20,
-    "prompt": "What is the capital of South Korea?",
-    "choices": [
-      "Busan",
-      "Seoul",
-      "Incheon",
-      "Daegu"
-    ],
-    "correct": "Seoul"
-  },
-  {
-    "id": "gk_2_20",
-    "difficulty": 20,
-    "prompt": "What is the derivative of sin(x)?",
-    "choices": [
-      "cos(x)",
-      "-sin(x)",
-      "tan(x)",
-      "sec(x)"
-    ],
-    "correct": "cos(x)"
-  },
-  {
-    "id": "gk_2_21",
-    "difficulty": 20,
-    "prompt": "What is the capital of Thailand?",
-    "choices": [
-      "Bangkok",
-      "Phuket",
-      "Chiang Mai",
-      "Pattaya"
-    ],
-    "correct": "Bangkok"
-  },
-  {
-    "id": "gk_2_22",
-    "difficulty": 20,
-    "prompt": "What is 36 * 2?",
-    "choices": [
-      "70",
-      "71",
-      "72",
-      "73"
-    ],
-    "correct": "72"
-  },
-  {
-    "id": "gk_2_23",
-    "difficulty": 20,
-    "prompt": "What is the capital of the Netherlands?",
-    "choices": [
-      "Amsterdam",
-      "Rotterdam",
-      "The Hague",
-      "Utrecht"
-    ],
-    "correct": "Amsterdam"
-  },
-  {
-    "id": "gk_2_24",
-    "difficulty": 20,
-    "prompt": "What is 81 / 9?",
-    "choices": [
-      "8",
-      "9",
-      "10",
-      "11"
     ],
     "correct": "9"
   },
   {
-    "id": "gk_2_25",
-    "difficulty": 20,
-    "prompt": "What is the capital of Sweden?",
+    "id": "q_23",
+    "difficulty": 5,
+    "prompt": "Which device is used to input text?",
     "choices": [
-      "Gothenburg",
-      "Stockholm",
-      "Malmö",
-      "Uppsala"
+      "Keyboard",
+      "Monitor",
+      "Speaker",
+      "Printer"
     ],
-    "correct": "Stockholm"
+    "correct": "Keyboard"
   },
   {
-    "id": "gk_3_1",
-    "difficulty": 10,
-    "prompt": "What is the capital of Norway?",
+    "id": "q_24",
+    "difficulty": 5,
+    "prompt": "Largest planet in our solar system?",
     "choices": [
-      "Bergen",
-      "Oslo",
-      "Trondheim",
-      "Stavanger"
+      "Mars",
+      "Earth",
+      "Jupiter",
+      "Venus"
     ],
-    "correct": "Oslo"
+    "correct": "Jupiter"
   },
   {
-    "id": "gk_3_2",
-    "difficulty": 10,
-    "prompt": "What is the volume of a sphere with radius 2? (Use π=3.14, formula 4/3πr³)",
+    "id": "q_25",
+    "difficulty": 5,
+    "prompt": "5 \u00d7 4 = ?",
     "choices": [
-      "33.49",
-      "33.50",
-      "33.51",
-      "33.52"
-    ],
-    "correct": "33.49"
-  },
-  {
-    "id": "gk_3_3",
-    "difficulty": 10,
-    "prompt": "What is the capital of Switzerland?",
-    "choices": [
-      "Zurich",
-      "Geneva",
-      "Bern",
-      "Basel"
-    ],
-    "correct": "Bern"
-  },
-  {
-    "id": "gk_3_4",
-    "difficulty": 10,
-    "prompt": "What is 125 / 5?",
-    "choices": [
-      "24",
-      "25",
+      "27",
+      "29",
       "26",
-      "27"
+      "20"
+    ],
+    "correct": "20"
+  },
+  {
+    "id": "q_26",
+    "difficulty": 6,
+    "prompt": "Binary of decimal 2?",
+    "choices": [
+      "10",
+      "11",
+      "01",
+      "00"
+    ],
+    "correct": "10"
+  },
+  {
+    "id": "q_27",
+    "difficulty": 6,
+    "prompt": "CPU stands for?",
+    "choices": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Processor Utility"
+    ],
+    "correct": "Central Processing Unit"
+  },
+  {
+    "id": "q_28",
+    "difficulty": 6,
+    "prompt": "15 \u00d7 8 = ?",
+    "choices": [
+      "121",
+      "119",
+      "118",
+      "120"
+    ],
+    "correct": "120"
+  },
+  {
+    "id": "q_29",
+    "difficulty": 6,
+    "prompt": "Primary memory is also called?",
+    "choices": [
+      "ROM",
+      "Hard Disk",
+      "RAM",
+      "Cache"
+    ],
+    "correct": "RAM"
+  },
+  {
+    "id": "q_30",
+    "difficulty": 6,
+    "prompt": "100 \u00f7 4 = ?",
+    "choices": [
+      "25",
+      "15",
+      "23",
+      "20"
     ],
     "correct": "25"
   },
   {
-    "id": "gk_3_5",
-    "difficulty": 10,
-    "prompt": "What is the capital of Austria?",
-    "choices": [
-      "Vienna",
-      "Salzburg",
-      "Innsbruck",
-      "Graz"
-    ],
-    "correct": "Vienna"
-  },
-  {
-    "id": "gk_3_6",
-    "difficulty": 10,
-    "prompt": "What is 19 * 6?",
-    "choices": [
-      "113",
-      "114",
-      "115",
-      "116"
-    ],
-    "correct": "114"
-  },
-  {
-    "id": "gk_3_7",
-    "difficulty": 10,
-    "prompt": "What is the capital of Portugal?",
-    "choices": [
-      "Porto",
-      "Lisbon",
-      "Coimbra",
-      "Faro"
-    ],
-    "correct": "Lisbon"
-  },
-  {
-    "id": "gk_3_8",
-    "difficulty": 10,
-    "prompt": "What is the circumference of a circle with radius 5? (Use π=3.14)",
-    "choices": [
-      "31.4",
-      "31.5",
-      "31.6",
-      "31.7"
-    ],
-    "correct": "31.4"
-  },
-  {
-    "id": "gk_3_9",
-    "difficulty": 10,
-    "prompt": "What is the capital of Denmark?",
-    "choices": [
-      "Aarhus",
-      "Copenhagen",
-      "Odense",
-      "Aalborg"
-    ],
-    "correct": "Copenhagen"
-  },
-  {
-    "id": "gk_3_10",
-    "difficulty": 10,
-    "prompt": "What is 169 / 13?",
-    "choices": [
-      "12",
-      "13",
-      "14",
-      "15"
-    ],
-    "correct": "13"
-  },
-  {
-    "id": "gk_3_11",
-    "difficulty": 10,
-    "prompt": "What is the capital of Finland?",
-    "choices": [
-      "Turku",
-      "Tampere",
-      "Helsinki",
-      "Oulu"
-    ],
-    "correct": "Helsinki"
-  },
-  {
-    "id": "gk_3_12",
-    "difficulty": 10,
-    "prompt": "What is 27 * 3?",
-    "choices": [
-      "80",
-      "81",
-      "82",
-      "83"
-    ],
-    "correct": "81"
-  },
-  {
-    "id": "gk_3_13",
-    "difficulty": 10,
-    "prompt": "What is the capital of Greece?",
-    "choices": [
-      "Thessaloniki",
-      "Athens",
-      "Patras",
-      "Heraklion"
-    ],
-    "correct": "Athens"
-  },
-  {
-    "id": "gk_3_14",
-    "difficulty": 10,
-    "prompt": "What is the integral of cos(x) dx?",
-    "choices": [
-      "sin(x)",
-      "-sin(x)",
-      "sin(x) + C",
-      "-sin(x) + C"
-    ],
-    "correct": "sin(x) + C"
-  },
-  {
-    "id": "gk_3_15",
-    "difficulty": 10,
-    "prompt": "What is the capital of Ireland?",
-    "choices": [
-      "Cork",
-      "Galway",
-      "Dublin",
-      "Limerick"
-    ],
-    "correct": "Dublin"
-  },
-  {
-    "id": "gk_3_16",
-    "difficulty": 10,
-    "prompt": "What is 121 / 11?",
+    "id": "q_31",
+    "difficulty": 7,
+    "prompt": "Binary of decimal 2?",
     "choices": [
       "10",
       "11",
-      "12",
-      "13"
+      "01",
+      "00"
     ],
-    "correct": "11"
+    "correct": "10"
   },
   {
-    "id": "gk_3_17",
-    "difficulty": 10,
-    "prompt": "What is the capital of Poland?",
+    "id": "q_32",
+    "difficulty": 7,
+    "prompt": "CPU stands for?",
     "choices": [
-      "Krakow",
-      "Warsaw",
-      "Gdansk",
-      "Wroclaw"
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Processor Utility"
     ],
-    "correct": "Warsaw"
+    "correct": "Central Processing Unit"
   },
   {
-    "id": "gk_3_18",
-    "difficulty": 10,
-    "prompt": "What is 31 * 4?",
+    "id": "q_33",
+    "difficulty": 7,
+    "prompt": "15 \u00d7 8 = ?",
     "choices": [
-      "123",
-      "124",
-      "125",
-      "126"
+      "112",
+      "128",
+      "120",
+      "117"
     ],
-    "correct": "124"
+    "correct": "120"
   },
   {
-    "id": "gk_3_19",
-    "difficulty": 10,
-    "prompt": "What is the capital of Hungary?",
+    "id": "q_34",
+    "difficulty": 7,
+    "prompt": "Primary memory is also called?",
     "choices": [
-      "Debrecen",
-      "Budapest",
-      "Szeged",
-      "Miskolc"
+      "ROM",
+      "Hard Disk",
+      "RAM",
+      "Cache"
     ],
-    "correct": "Budapest"
+    "correct": "RAM"
   },
   {
-    "id": "gk_3_20",
-    "difficulty": 10,
-    "prompt": "What is the derivative of e^x?",
+    "id": "q_35",
+    "difficulty": 7,
+    "prompt": "100 \u00f7 4 = ?",
     "choices": [
-      "e^x",
-      "x e^x",
-      "ln(x)",
-      "1/x"
-    ],
-    "correct": "e^x"
-  },
-  {
-    "id": "gk_3_21",
-    "difficulty": 10,
-    "prompt": "What is the capital of Czech Republic?",
-    "choices": [
-      "Brno",
-      "Ostrava",
-      "Prague",
-      "Plzen"
-    ],
-    "correct": "Prague"
-  },
-  {
-    "id": "gk_3_22",
-    "difficulty": 10,
-    "prompt": "What is 49 * 2?",
-    "choices": [
-      "97",
-      "98",
-      "99",
-      "100"
-    ],
-    "correct": "98"
-  },
-  {
-    "id": "gk_3_23",
-    "difficulty": 10,
-    "prompt": "What is the capital of Romania?",
-    "choices": [
-      "Bucharest",
-      "Cluj-Napoca",
-      "Timisoara",
-      "Iasi"
-    ],
-    "correct": "Bucharest"
-  },
-  {
-    "id": "gk_3_24",
-    "difficulty": 10,
-    "prompt": "What is 225 / 15?",
-    "choices": [
-      "14",
-      "15",
-      "16",
-      "17"
-    ],
-    "correct": "15"
-  },
-  {
-    "id": "gk_3_25",
-    "difficulty": 10,
-    "prompt": "What is the capital of Bulgaria?",
-    "choices": [
-      "Sofia",
-      "Plovdiv",
-      "Varna",
-      "Burgas"
-    ],
-    "correct": "Sofia"
-  },
-  {
-    "id": "gk_4_1",
-    "difficulty": 15,
-    "prompt": "What is the capital of Croatia?",
-    "choices": [
-      "Split",
-      "Zagreb",
-      "Rijeka",
-      "Osijek"
-    ],
-    "correct": "Zagreb"
-  },
-  {
-    "id": "gk_4_2",
-    "difficulty": 15,
-    "prompt": "Solve x² + 4x + 4 = 0",
-    "choices": [
-      "x=-2",
-      "x=2",
-      "x=-4",
-      "x=4"
-    ],
-    "correct": "x=-2"
-  },
-  {
-    "id": "gk_4_3",
-    "difficulty": 15,
-    "prompt": "What is the capital of Serbia?",
-    "choices": [
-      "Belgrade",
-      "Novi Sad",
-      "Nis",
-      "Kragujevac"
-    ],
-    "correct": "Belgrade"
-  },
-  {
-    "id": "gk_4_4",
-    "difficulty": 15,
-    "prompt": "What is 256 / 16?",
-    "choices": [
-      "15",
-      "16",
-      "17",
-      "18"
-    ],
-    "correct": "16"
-  },
-  {
-    "id": "gk_4_5",
-    "difficulty": 15,
-    "prompt": "What is the capital of Slovenia?",
-    "choices": [
-      "Maribor",
-      "Ljubljana",
-      "Celje",
-      "Kranj"
-    ],
-    "correct": "Ljubljana"
-  },
-  {
-    "id": "gk_4_6",
-    "difficulty": 15,
-    "prompt": "What is 23 * 11?",
-    "choices": [
-      "252",
-      "253",
-      "254",
-      "255"
-    ],
-    "correct": "253"
-  },
-  {
-    "id": "gk_4_7",
-    "difficulty": 15,
-    "prompt": "What is the capital of Slovakia?",
-    "choices": [
-      "Kosice",
-      "Bratislava",
-      "Trnava",
-      "Nitra"
-    ],
-    "correct": "Bratislava"
-  },
-  {
-    "id": "gk_4_8",
-    "difficulty": 15,
-    "prompt": "Solve 2x + 3y = 6, x - y = 1",
-    "choices": [
-      "x=3, y=2",
-      "x=2, y=1",
-      "x=1, y=0",
-      "x=4, y=3"
-    ],
-    "correct": "x=3, y=2"
-  },
-  {
-    "id": "gk_4_9",
-    "difficulty": 15,
-    "prompt": "What is the capital of Estonia?",
-    "choices": [
-      "Tartu",
-      "Tallinn",
-      "Narva",
-      "Parnu"
-    ],
-    "correct": "Tallinn"
-  },
-  {
-    "id": "gk_4_10",
-    "difficulty": 15,
-    "prompt": "What is 289 / 17?",
-    "choices": [
-      "16",
-      "17",
-      "18",
-      "19"
-    ],
-    "correct": "17"
-  },
-  {
-    "id": "gk_4_11",
-    "difficulty": 15,
-    "prompt": "What is the capital of Latvia?",
-    "choices": [
-      "Riga",
-      "Daugavpils",
-      "Liepaja",
-      "Jurmala"
-    ],
-    "correct": "Riga"
-  },
-  {
-    "id": "gk_4_12",
-    "difficulty": 15,
-    "prompt": "What is 37 * 7?",
-    "choices": [
-      "258",
-      "259",
-      "260",
-      "261"
-    ],
-    "correct": "259"
-  },
-  {
-    "id": "gk_4_13",
-    "difficulty": 15,
-    "prompt": "What is the capital of Lithuania?",
-    "choices": [
-      "Kaunas",
-      "Vilnius",
-      "Klaipeda",
-      "Siauliai"
-    ],
-    "correct": "Vilnius"
-  },
-  {
-    "id": "gk_4_14",
-    "difficulty": 15,
-    "prompt": "What is the derivative of ln(x)?",
-    "choices": [
-      "1/x",
-      "x",
-      "e^x",
-      "ln(x)"
-    ],
-    "correct": "1/x"
-  },
-  {
-    "id": "gk_4_15",
-    "difficulty": 15,
-    "prompt": "What is the capital of Ukraine?",
-    "choices": [
-      "Kharkiv",
-      "Kiev",
-      "Odessa",
-      "Dnipro"
-    ],
-    "correct": "Kiev"
-  },
-  {
-    "id": "gk_4_16",
-    "difficulty": 15,
-    "prompt": "What is 361 / 19?",
-    "choices": [
-      "18",
-      "19",
-      "20",
-      "21"
-    ],
-    "correct": "19"
-  },
-  {
-    "id": "gk_4_17",
-    "difficulty": 15,
-    "prompt": "What is the capital of Belarus?",
-    "choices": [
-      "Minsk",
-      "Gomel",
-      "Mogilev",
-      "Vitebsk"
-    ],
-    "correct": "Minsk"
-  },
-  {
-    "id": "gk_4_18",
-    "difficulty": 15,
-    "prompt": "What is 41 * 9?",
-    "choices": [
-      "368",
-      "369",
-      "370",
-      "371"
-    ],
-    "correct": "369"
-  },
-  {
-    "id": "gk_4_19",
-    "difficulty": 15,
-    "prompt": "What is the capital of Moldova?",
-    "choices": [
-      "Chisinau",
-      "Balti",
-      "Tiraspol",
-      "Bender"
-    ],
-    "correct": "Chisinau"
-  },
-  {
-    "id": "gk_4_20",
-    "difficulty": 15,
-    "prompt": "Solve x² - 4x + 3 = 0",
-    "choices": [
-      "x=1,3",
-      "x=3,1",
-      "x=4,3",
-      "x=1,4"
-    ],
-    "correct": "x=1,3"
-  },
-  {
-    "id": "gk_4_21",
-    "difficulty": 15,
-    "prompt": "What is the capital of Albania?",
-    "choices": [
-      "Tirana",
-      "Durres",
-      "Vlore",
-      "Shkoder"
-    ],
-    "correct": "Tirana"
-  },
-  {
-    "id": "gk_4_22",
-    "difficulty": 15,
-    "prompt": "What is 43 * 8?",
-    "choices": [
-      "343",
-      "344",
-      "345",
-      "346"
-    ],
-    "correct": "344"
-  },
-  {
-    "id": "gk_4_23",
-    "difficulty": 15,
-    "prompt": "What is the capital of North Macedonia?",
-    "choices": [
-      "Skopje",
-      "Bitola",
-      "Kumanovo",
-      "Prilep"
-    ],
-    "correct": "Skopje"
-  },
-  {
-    "id": "gk_4_24",
-    "difficulty": 15,
-    "prompt": "What is 529 / 23?",
-    "choices": [
+      "34",
+      "28",
       "22",
-      "23",
-      "24",
       "25"
     ],
-    "correct": "23"
+    "correct": "25"
   },
   {
-    "id": "gk_4_25",
-    "difficulty": 15,
-    "prompt": "What is the capital of Bosnia and Herzegovina?",
+    "id": "q_36",
+    "difficulty": 8,
+    "prompt": "Binary of decimal 2?",
     "choices": [
-      "Sarajevo",
-      "Banja Luka",
-      "Tuzla",
-      "Zenica"
+      "10",
+      "11",
+      "01",
+      "00"
     ],
-    "correct": "Sarajevo"
+    "correct": "10"
   },
   {
-    "id": "gk_5_1",
-    "difficulty": 20,
-    "prompt": "What is the capital of Montenegro?",
+    "id": "q_37",
+    "difficulty": 8,
+    "prompt": "CPU stands for?",
     "choices": [
-      "Podgorica",
-      "Niksic",
-      "Pljevlja",
-      "Bijelo Polje"
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Processor Utility"
     ],
-    "correct": "Podgorica"
+    "correct": "Central Processing Unit"
   },
   {
-    "id": "gk_5_2",
-    "difficulty": 20,
-    "prompt": "Solve x² - 9 = 0",
+    "id": "q_38",
+    "difficulty": 8,
+    "prompt": "15 \u00d7 8 = ?",
     "choices": [
-      "x=3",
-      "x=-3",
-      "x=3,-3",
-      "x=9"
+      "120",
+      "114",
+      "130",
+      "124"
     ],
-    "correct": "x=3,-3"
+    "correct": "120"
   },
   {
-    "id": "gk_5_3",
-    "difficulty": 20,
-    "prompt": "What is the capital of Kosovo?",
+    "id": "q_39",
+    "difficulty": 8,
+    "prompt": "Primary memory is also called?",
     "choices": [
-      "Pristina",
-      "Prizren",
-      "Mitrovica",
-      "Peja"
+      "ROM",
+      "Hard Disk",
+      "RAM",
+      "Cache"
     ],
-    "correct": "Pristina"
+    "correct": "RAM"
   },
   {
-    "id": "gk_5_4",
-    "difficulty": 20,
-    "prompt": "What is the limit of (x² - 1)/(x - 1) as x approaches 1?",
+    "id": "q_40",
+    "difficulty": 8,
+    "prompt": "100 \u00f7 4 = ?",
     "choices": [
-      "0",
-      "1",
+      "32",
+      "30",
+      "25",
+      "33"
+    ],
+    "correct": "25"
+  },
+  {
+    "id": "q_41",
+    "difficulty": 9,
+    "prompt": "Binary of decimal 2?",
+    "choices": [
+      "10",
+      "11",
+      "01",
+      "00"
+    ],
+    "correct": "10"
+  },
+  {
+    "id": "q_42",
+    "difficulty": 9,
+    "prompt": "CPU stands for?",
+    "choices": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Processor Utility"
+    ],
+    "correct": "Central Processing Unit"
+  },
+  {
+    "id": "q_43",
+    "difficulty": 9,
+    "prompt": "15 \u00d7 8 = ?",
+    "choices": [
+      "129",
+      "113",
+      "120",
+      "121"
+    ],
+    "correct": "120"
+  },
+  {
+    "id": "q_44",
+    "difficulty": 9,
+    "prompt": "Primary memory is also called?",
+    "choices": [
+      "ROM",
+      "Hard Disk",
+      "RAM",
+      "Cache"
+    ],
+    "correct": "RAM"
+  },
+  {
+    "id": "q_45",
+    "difficulty": 9,
+    "prompt": "100 \u00f7 4 = ?",
+    "choices": [
+      "16",
+      "35",
+      "25",
+      "28"
+    ],
+    "correct": "25"
+  },
+  {
+    "id": "q_46",
+    "difficulty": 10,
+    "prompt": "Binary of decimal 2?",
+    "choices": [
+      "10",
+      "11",
+      "01",
+      "00"
+    ],
+    "correct": "10"
+  },
+  {
+    "id": "q_47",
+    "difficulty": 10,
+    "prompt": "CPU stands for?",
+    "choices": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Processor Utility"
+    ],
+    "correct": "Central Processing Unit"
+  },
+  {
+    "id": "q_48",
+    "difficulty": 10,
+    "prompt": "15 \u00d7 8 = ?",
+    "choices": [
+      "120",
+      "122",
+      "128",
+      "110"
+    ],
+    "correct": "120"
+  },
+  {
+    "id": "q_49",
+    "difficulty": 10,
+    "prompt": "Primary memory is also called?",
+    "choices": [
+      "ROM",
+      "Hard Disk",
+      "RAM",
+      "Cache"
+    ],
+    "correct": "RAM"
+  },
+  {
+    "id": "q_50",
+    "difficulty": 10,
+    "prompt": "100 \u00f7 4 = ?",
+    "choices": [
+      "16",
+      "33",
+      "25",
+      "21"
+    ],
+    "correct": "25"
+  },
+  {
+    "id": "q_51",
+    "difficulty": 11,
+    "prompt": "Time complexity of binary search?",
+    "choices": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct": "O(log n)"
+  },
+  {
+    "id": "q_52",
+    "difficulty": 11,
+    "prompt": "Solve: 3x + 6 = 21. x = ?",
+    "choices": [
+      "14",
+      "-3",
+      "3",
+      "5"
+    ],
+    "correct": "5"
+  },
+  {
+    "id": "q_53",
+    "difficulty": 11,
+    "prompt": "Python uses which keyword for function?",
+    "choices": [
+      "func",
+      "define",
+      "def",
+      "function"
+    ],
+    "correct": "def"
+  },
+  {
+    "id": "q_54",
+    "difficulty": 11,
+    "prompt": "2^5 = ?",
+    "choices": [
+      "38",
+      "32",
+      "40",
+      "23"
+    ],
+    "correct": "32"
+  },
+  {
+    "id": "q_55",
+    "difficulty": 11,
+    "prompt": "HTML stands for?",
+    "choices": [
+      "Hyper Tool Markup Language",
+      "HyperText Markdown Language",
+      "HyperText Markup Language",
+      "HighText Machine Language"
+    ],
+    "correct": "HyperText Markup Language"
+  },
+  {
+    "id": "q_56",
+    "difficulty": 12,
+    "prompt": "Time complexity of binary search?",
+    "choices": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct": "O(log n)"
+  },
+  {
+    "id": "q_57",
+    "difficulty": 12,
+    "prompt": "Solve: 3x + 6 = 21. x = ?",
+    "choices": [
+      "-3",
+      "7",
+      "8",
+      "5"
+    ],
+    "correct": "5"
+  },
+  {
+    "id": "q_58",
+    "difficulty": 12,
+    "prompt": "Python uses which keyword for function?",
+    "choices": [
+      "func",
+      "define",
+      "def",
+      "function"
+    ],
+    "correct": "def"
+  },
+  {
+    "id": "q_59",
+    "difficulty": 12,
+    "prompt": "2^5 = ?",
+    "choices": [
+      "31",
+      "32",
+      "36",
+      "30"
+    ],
+    "correct": "32"
+  },
+  {
+    "id": "q_60",
+    "difficulty": 12,
+    "prompt": "HTML stands for?",
+    "choices": [
+      "Hyper Tool Markup Language",
+      "HyperText Markdown Language",
+      "HyperText Markup Language",
+      "HighText Machine Language"
+    ],
+    "correct": "HyperText Markup Language"
+  },
+  {
+    "id": "q_61",
+    "difficulty": 13,
+    "prompt": "Time complexity of binary search?",
+    "choices": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct": "O(log n)"
+  },
+  {
+    "id": "q_62",
+    "difficulty": 13,
+    "prompt": "Solve: 3x + 6 = 21. x = ?",
+    "choices": [
+      "-2",
+      "3",
       "2",
-      "undefined"
+      "5"
     ],
-    "correct": "2"
+    "correct": "5"
   },
   {
-    "id": "gk_5_5",
-    "difficulty": 20,
-    "prompt": "What is the capital of Iceland?",
+    "id": "q_63",
+    "difficulty": 13,
+    "prompt": "Python uses which keyword for function?",
     "choices": [
-      "Reykjavik",
-      "Kopavogur",
-      "Hafnarfjordur",
-      "Akureyri"
+      "func",
+      "define",
+      "def",
+      "function"
     ],
-    "correct": "Reykjavik"
+    "correct": "def"
   },
   {
-    "id": "gk_5_6",
-    "difficulty": 20,
-    "prompt": "What is the integral of 1/x dx?",
+    "id": "q_64",
+    "difficulty": 13,
+    "prompt": "2^5 = ?",
     "choices": [
-      "ln|x| + C",
-      "x + C",
-      "e^x + C",
-      "1/x + C"
+      "22",
+      "24",
+      "32",
+      "42"
     ],
-    "correct": "ln|x| + C"
+    "correct": "32"
   },
   {
-    "id": "gk_5_7",
-    "difficulty": 20,
-    "prompt": "What is the capital of Malta?",
+    "id": "q_65",
+    "difficulty": 13,
+    "prompt": "HTML stands for?",
     "choices": [
-      "Valletta",
-      "Sliema",
-      "St. Julian's",
-      "Birkirkara"
+      "Hyper Tool Markup Language",
+      "HyperText Markdown Language",
+      "HyperText Markup Language",
+      "HighText Machine Language"
     ],
-    "correct": "Valletta"
+    "correct": "HyperText Markup Language"
   },
   {
-    "id": "gk_5_8",
-    "difficulty": 20,
-    "prompt": "What is the limit of sin(x)/x as x approaches 0?",
+    "id": "q_66",
+    "difficulty": 14,
+    "prompt": "Time complexity of binary search?",
+    "choices": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct": "O(log n)"
+  },
+  {
+    "id": "q_67",
+    "difficulty": 14,
+    "prompt": "Solve: 3x + 6 = 21. x = ?",
+    "choices": [
+      "5",
+      "11",
+      "10",
+      "13"
+    ],
+    "correct": "5"
+  },
+  {
+    "id": "q_68",
+    "difficulty": 14,
+    "prompt": "Python uses which keyword for function?",
+    "choices": [
+      "func",
+      "define",
+      "def",
+      "function"
+    ],
+    "correct": "def"
+  },
+  {
+    "id": "q_69",
+    "difficulty": 14,
+    "prompt": "2^5 = ?",
+    "choices": [
+      "32",
+      "40",
+      "22",
+      "28"
+    ],
+    "correct": "32"
+  },
+  {
+    "id": "q_70",
+    "difficulty": 14,
+    "prompt": "HTML stands for?",
+    "choices": [
+      "Hyper Tool Markup Language",
+      "HyperText Markdown Language",
+      "HyperText Markup Language",
+      "HighText Machine Language"
+    ],
+    "correct": "HyperText Markup Language"
+  },
+  {
+    "id": "q_71",
+    "difficulty": 15,
+    "prompt": "Time complexity of binary search?",
+    "choices": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct": "O(log n)"
+  },
+  {
+    "id": "q_72",
+    "difficulty": 15,
+    "prompt": "Solve: 3x + 6 = 21. x = ?",
+    "choices": [
+      "0",
+      "9",
+      "5",
+      "-1"
+    ],
+    "correct": "5"
+  },
+  {
+    "id": "q_73",
+    "difficulty": 15,
+    "prompt": "Python uses which keyword for function?",
+    "choices": [
+      "func",
+      "define",
+      "def",
+      "function"
+    ],
+    "correct": "def"
+  },
+  {
+    "id": "q_74",
+    "difficulty": 15,
+    "prompt": "2^5 = ?",
+    "choices": [
+      "28",
+      "41",
+      "40",
+      "32"
+    ],
+    "correct": "32"
+  },
+  {
+    "id": "q_75",
+    "difficulty": 15,
+    "prompt": "HTML stands for?",
+    "choices": [
+      "Hyper Tool Markup Language",
+      "HyperText Markdown Language",
+      "HyperText Markup Language",
+      "HighText Machine Language"
+    ],
+    "correct": "HyperText Markup Language"
+  },
+  {
+    "id": "q_76",
+    "difficulty": 16,
+    "prompt": "Derivative of x^3?",
+    "choices": [
+      "x^2",
+      "3x^2",
+      "2x^3",
+      "x^3"
+    ],
+    "correct": "3x^2"
+  },
+  {
+    "id": "q_77",
+    "difficulty": 16,
+    "prompt": "Integral of 2x dx?",
+    "choices": [
+      "2x + C",
+      "x^2 + C",
+      "x^3",
+      "x + C"
+    ],
+    "correct": "x^2 + C"
+  },
+  {
+    "id": "q_78",
+    "difficulty": 16,
+    "prompt": "Which data structure uses FIFO?",
+    "choices": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correct": "Queue"
+  },
+  {
+    "id": "q_79",
+    "difficulty": 16,
+    "prompt": "Solve: x^2 \u2212 5x + 6 = 0",
+    "choices": [
+      "1 and 6",
+      "2 and 3",
+      "3 and 4",
+      "1 and 3"
+    ],
+    "correct": "2 and 3"
+  },
+  {
+    "id": "q_80",
+    "difficulty": 16,
+    "prompt": "Limit of sin(x)/x as x\u21920?",
     "choices": [
       "0",
       "1",
-      "∞",
-      "undefined"
+      "Infinity",
+      "Undefined"
     ],
     "correct": "1"
   },
   {
-    "id": "gk_5_9",
-    "difficulty": 20,
-    "prompt": "What is the capital of Cyprus?",
+    "id": "q_81",
+    "difficulty": 17,
+    "prompt": "Derivative of x^3?",
     "choices": [
-      "Nicosia",
-      "Limassol",
-      "Larnaca",
-      "Paphos"
-    ],
-    "correct": "Nicosia"
-  },
-  {
-    "id": "gk_5_10",
-    "difficulty": 20,
-    "prompt": "What is the derivative of x^3?",
-    "choices": [
-      "3x²",
-      "x²",
-      "3x",
+      "x^2",
+      "3x^2",
+      "2x^3",
       "x^3"
     ],
-    "correct": "3x²"
+    "correct": "3x^2"
   },
   {
-    "id": "gk_5_11",
-    "difficulty": 20,
-    "prompt": "What is the capital of Luxembourg?",
+    "id": "q_82",
+    "difficulty": 17,
+    "prompt": "Integral of 2x dx?",
     "choices": [
-      "Luxembourg City",
-      "Esch-sur-Alzette",
-      "Differdange",
-      "Dudelange"
+      "2x + C",
+      "x^2 + C",
+      "x^3",
+      "x + C"
     ],
-    "correct": "Luxembourg City"
+    "correct": "x^2 + C"
   },
   {
-    "id": "gk_5_12",
-    "difficulty": 20,
-    "prompt": "Solve x^3 - 8 = 0",
+    "id": "q_83",
+    "difficulty": 17,
+    "prompt": "Which data structure uses FIFO?",
     "choices": [
-      "x=2",
-      "x=-2",
-      "x=2, -1±√3i",
-      "x=8"
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
     ],
-    "correct": "x=2"
+    "correct": "Queue"
   },
   {
-    "id": "gk_5_13",
-    "difficulty": 20,
-    "prompt": "What is the capital of Andorra?",
+    "id": "q_84",
+    "difficulty": 17,
+    "prompt": "Solve: x^2 \u2212 5x + 6 = 0",
     "choices": [
-      "Andorra la Vella",
-      "Escaldes-Engordany",
-      "Encamp",
-      "La Massana"
+      "1 and 6",
+      "2 and 3",
+      "3 and 4",
+      "1 and 3"
     ],
-    "correct": "Andorra la Vella"
+    "correct": "2 and 3"
   },
   {
-    "id": "gk_5_14",
-    "difficulty": 20,
-    "prompt": "What is the limit of (1 + 1/x)^x as x approaches ∞?",
+    "id": "q_85",
+    "difficulty": 17,
+    "prompt": "Limit of sin(x)/x as x\u21920?",
     "choices": [
       "0",
       "1",
-      "e",
-      "∞"
+      "Infinity",
+      "Undefined"
     ],
-    "correct": "e"
+    "correct": "1"
   },
   {
-    "id": "gk_5_15",
-    "difficulty": 20,
-    "prompt": "What is the capital of Monaco?",
+    "id": "q_86",
+    "difficulty": 18,
+    "prompt": "Derivative of x^3?",
     "choices": [
-      "Monte Carlo",
-      "Monaco City",
-      "La Condamine",
-      "Fontvieille"
+      "x^2",
+      "3x^2",
+      "2x^3",
+      "x^3"
     ],
-    "correct": "Monaco City"
+    "correct": "3x^2"
   },
   {
-    "id": "gk_5_16",
-    "difficulty": 20,
-    "prompt": "What is the integral of dx / (x² + 1)?",
+    "id": "q_87",
+    "difficulty": 18,
+    "prompt": "Integral of 2x dx?",
     "choices": [
-      "arctan(x) + C",
-      "ln|x| + C",
-      "1/x + C",
-      "e^x + C"
+      "2x + C",
+      "x^2 + C",
+      "x^3",
+      "x + C"
     ],
-    "correct": "arctan(x) + C"
+    "correct": "x^2 + C"
   },
   {
-    "id": "gk_5_17",
-    "difficulty": 20,
-    "prompt": "What is the capital of San Marino?",
+    "id": "q_88",
+    "difficulty": 18,
+    "prompt": "Which data structure uses FIFO?",
     "choices": [
-      "San Marino City",
-      "Serravalle",
-      "Borgo Maggiore",
-      "Domagnano"
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
     ],
-    "correct": "San Marino City"
+    "correct": "Queue"
   },
   {
-    "id": "gk_5_18",
-    "difficulty": 20,
-    "prompt": "Solve x^4 - 16 = 0",
+    "id": "q_89",
+    "difficulty": 18,
+    "prompt": "Solve: x^2 \u2212 5x + 6 = 0",
     "choices": [
-      "x=2",
-      "x=-2",
-      "x=2,-2,2i,-2i",
-      "x=4"
+      "1 and 6",
+      "2 and 3",
+      "3 and 4",
+      "1 and 3"
     ],
-    "correct": "x=2,-2,2i,-2i"
+    "correct": "2 and 3"
   },
   {
-    "id": "gk_5_19",
-    "difficulty": 20,
-    "prompt": "What is the capital of Liechtenstein?",
+    "id": "q_90",
+    "difficulty": 18,
+    "prompt": "Limit of sin(x)/x as x\u21920?",
     "choices": [
-      "Vaduz",
-      "Schaan",
-      "Triesen",
-      "Balzers"
+      "0",
+      "1",
+      "Infinity",
+      "Undefined"
     ],
-    "correct": "Vaduz"
+    "correct": "1"
   },
   {
-    "id": "gk_5_20",
-    "difficulty": 20,
-    "prompt": "What is the Laplace transform of t?",
+    "id": "q_91",
+    "difficulty": 19,
+    "prompt": "Derivative of x^3?",
     "choices": [
-      "1/s²",
-      "1/s",
-      "s",
-      "s²"
+      "x^2",
+      "3x^2",
+      "2x^3",
+      "x^3"
     ],
-    "correct": "1/s²"
+    "correct": "3x^2"
   },
   {
-    "id": "gk_5_21",
-    "difficulty": 20,
-    "prompt": "What is the capital of Vatican City?",
+    "id": "q_92",
+    "difficulty": 19,
+    "prompt": "Integral of 2x dx?",
     "choices": [
-      "Vatican City",
-      "Rome",
-      "Castel Gandolfo",
-      "None"
+      "2x + C",
+      "x^2 + C",
+      "x^3",
+      "x + C"
     ],
-    "correct": "Vatican City"
+    "correct": "x^2 + C"
   },
   {
-    "id": "gk_5_22",
-    "difficulty": 20,
-    "prompt": "What is the derivative of x^x?",
+    "id": "q_93",
+    "difficulty": 19,
+    "prompt": "Which data structure uses FIFO?",
     "choices": [
-      "x^x (ln(x) + 1)",
-      "x^x ln(x)",
-      "x^x",
-      "x ln(x)"
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
     ],
-    "correct": "x^x (ln(x) + 1)"
+    "correct": "Queue"
   },
   {
-    "id": "gk_5_23",
-    "difficulty": 20,
-    "prompt": "What is the capital of New Zealand?",
+    "id": "q_94",
+    "difficulty": 19,
+    "prompt": "Solve: x^2 \u2212 5x + 6 = 0",
     "choices": [
-      "Auckland",
-      "Wellington",
-      "Christchurch",
-      "Dunedin"
+      "1 and 6",
+      "2 and 3",
+      "3 and 4",
+      "1 and 3"
     ],
-    "correct": "Wellington"
+    "correct": "2 and 3"
   },
   {
-    "id": "gk_5_24",
-    "difficulty": 20,
-    "prompt": "Solve x² - 5x + 6 = 0",
+    "id": "q_95",
+    "difficulty": 19,
+    "prompt": "Limit of sin(x)/x as x\u21920?",
     "choices": [
-      "x=2,3",
-      "x=1,6",
-      "x=3,2",
-      "x=6,1"
+      "0",
+      "1",
+      "Infinity",
+      "Undefined"
     ],
-    "correct": "x=2,3"
+    "correct": "1"
   },
   {
-    "id": "gk_5_25",
+    "id": "q_96",
     "difficulty": 20,
-    "prompt": "What is Planck's constant?",
+    "prompt": "Derivative of x^3?",
     "choices": [
-      "6.626 × 10^-34 J s",
-      "1.602 × 10^-19 C",
-      "9.109 × 10^-31 kg",
-      "1.381 × 10^-23 J/K"
+      "x^2",
+      "3x^2",
+      "2x^3",
+      "x^3"
     ],
-    "correct": "6.626 × 10^-34 J s"
+    "correct": "3x^2"
+  },
+  {
+    "id": "q_97",
+    "difficulty": 20,
+    "prompt": "Integral of 2x dx?",
+    "choices": [
+      "2x + C",
+      "x^2 + C",
+      "x^3",
+      "x + C"
+    ],
+    "correct": "x^2 + C"
+  },
+  {
+    "id": "q_98",
+    "difficulty": 20,
+    "prompt": "Which data structure uses FIFO?",
+    "choices": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "correct": "Queue"
+  },
+  {
+    "id": "q_99",
+    "difficulty": 20,
+    "prompt": "Solve: x^2 \u2212 5x + 6 = 0",
+    "choices": [
+      "1 and 6",
+      "2 and 3",
+      "3 and 4",
+      "1 and 3"
+    ],
+    "correct": "2 and 3"
+  },
+  {
+    "id": "q_100",
+    "difficulty": 20,
+    "prompt": "Limit of sin(x)/x as x\u21920?",
+    "choices": [
+      "0",
+      "1",
+      "Infinity",
+      "Undefined"
+    ],
+    "correct": "1"
   }
 ]
